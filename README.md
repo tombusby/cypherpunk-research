@@ -7,19 +7,27 @@ The reason I'm putting this archive on github is to make it easier for others to
 
 I'm also including a few other people and events that aren't strictly cypherpunk because I feel they relate sufficiently to outcomes predicted by the cypherpunks.
 
-## The Cypherpunk Mailing List Archives
+## The Cypherpunk Mailing List Archives and FAQ
 
-This seems like an appropriate first item to include:
+These seems like appropriate first items to include:
 
 [1992-1998 Archives](https://github.com/Famicoman/cypherpunks-mailing-list-archives/tree/master/cryptome.org)
 
-## Notable People
+[The Cyphernomicon (Cypherpunk Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)
+
+## Notable People (A-Z)
 
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
+* [Timothy C. May](people/timothy_c_may.md) - Founding member of Cypherpunk Mailing list, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
+
+## Notable Events
+
+* 1990s Crypto Wars, Phil Zimmerman and PGP
 
 ## Philosophical/Ideological Sources
 
-* [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
+* 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
+* 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
 
 ## Technical Sources
 
@@ -27,7 +35,7 @@ This seems like an appropriate first item to include:
 
 ## Historical Sources & Media Articles
 
-* Wired 01-Jan-1993 - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/)
+* 01-Jan-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
 
 ## Successor Online Communities
 
