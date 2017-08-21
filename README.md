@@ -4,3 +4,9 @@ This repository is essentially for compiling information about Cypherpunks, the 
 I'll start out with just this README file, but overtime, it will likely expand to a more complex structure.
 
 The reason I'm putting this archive on github is to make it easier for others to add sources as a pull request. Whatever I do with the information collated here, it could be useful to the community at large.
+
+## The Cypherpunk Mailing List Archives
+
+This seems like an appropriate first item to include:
+
+[1992-1998 Archives](https://github.com/Famicoman/cypherpunks-mailing-list-archives/tree/master/cryptome.org)
