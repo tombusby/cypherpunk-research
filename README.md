@@ -19,10 +19,11 @@ These seems like appropriate first items to include:
 
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
 * [Timothy C. May](people/timothy_c_may.md) - Founding member of Cypherpunk Mailing list, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
+* [Phil Zimmerman](people/phil_zimmerman.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
 
 ## Notable Events
 
-* 1990s Crypto Wars, Phil Zimmerman and PGP
+* [1990s Crypto Wars, Phil Zimmerman and PGP](events/90s_crypto_wars.md)
 
 ## Philosophical/Ideological Sources
 
