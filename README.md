@@ -113,6 +113,7 @@ These seems like appropriate first items to include:
 ## Technical Sources
 
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
+* 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
 * 13-Apr-2017 The Merkle - [What is a BIP](https://themerkle.com/what-is-a-bip/)
