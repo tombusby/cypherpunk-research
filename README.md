@@ -29,6 +29,7 @@ These seems like appropriate first items to include:
 
 * [Julian Assange](people/julian_assange.md) - Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday
 * [Adam Back](people/adam_back.md) - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
+* [Jim Bell](people/jim_bell.md) - 90s Cypherpunk, Crypto-anarchist, Author of [Assassination Politics](http://cryptome.org/ap.htm)
 * [Vitalik Buterin](people/vitalik_buterin.md) - Creator of Ethereum
 * [David Chaum](people/david_chaum.md) - Cryptographer and ideological forefather of the Cypherpunk movement
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
@@ -46,7 +47,7 @@ These seems like appropriate first items to include:
 * [John Perry Barlow](people/john_perry_barlow.md) - 90s Cypherpunk, Author of "A Declaration of the Independence of Cyberspace"
 * [Edward Snowden](people/edward_snowden.md) - Former NSA contractor turned leaker, is clearly inspired by Cypherpunk ideals
 * [Nick Szabo](people/nick_szabo.md) - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for [Satoshi](people/satoshi_nakamoto.md)
-* [Ross Ulbricht](people/ross_ulbricht.md) - Founder of the Silk Road dark net market, Currently serving life in prison
+* [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md) - Founder of the Silk Road dark net market, "The Princess Bride" fan, Currently serving life in prison
 * [Phil Zimmerman](people/phil_zimmerman.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
 
 ## Notable People (A-Z)
@@ -106,6 +107,7 @@ These seems like appropriate first items to include:
 
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
+* 04-Apr-1997 - [Assassination Politics](http://cryptome.org/ap.htm) by [Jim Bell](people/jim_bell.md)
 
 ## Technical Sources
 
@@ -119,6 +121,9 @@ These seems like appropriate first items to include:
 ## Historical Sources & Media Articles
 
 * 01-Feb-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
+* 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/) by "Wired Staff"
+* 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
+
 
 ## Successor Online Communities
 
