@@ -33,7 +33,7 @@ These seems like appropriate first items to include:
 * [Timothy C. May](people/timothy_c_may.md) - Founding member of Cypherpunk Mailing List, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
 * [Ralph C. Merkle](people/ralph_c_merkle.md) - Cryptographer, One of the inventors of Public Key Cryptography, Inventor of the cryptographic hash
 * [Satoshi Nakamoto](people/satoshi_nakamoto.md) - Pseudonymous Founder of Bitcoin, May be a person or group, Many people put forward as possible candidates, Very probably the alias of a 90s Cypherpunk
-* [John Perry Barlow](people/john_perry_barlow.md) - 90s Cypherpunk, Author of "A Declaration of Independence of Cyberspace"
+* [John Perry Barlow](people/john_perry_barlow.md) - 90s Cypherpunk, Author of "A Declaration of the Independence of Cyberspace"
 * [Edward Snowden](people/edward_snowden.md) - Former NSA contractor turned leaker, is clearly inspired by Cypherpunk ideals
 * [Nick Szabo](people/nick_szabo.md) - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for Satoshi
 * [Ross Ulbricht](people/ross_ulbricht.md) - Founder of the Silk Road dark net market, Currently serving life in prison
