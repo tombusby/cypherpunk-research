@@ -23,12 +23,12 @@ These seems like appropriate first items to include:
 * [David Chaum](people/david_chaum.md) - Cryptographer and ideological forefather of the Cypherpunk movement
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
 * [Wei Dai](people/wei_dai.md) - 90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money
-* [Whitfield Diffie](people/whitfield_diffie.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with Martin Hellman, Privacy advocate
+* [Whitfield Diffie](people/whitfield_diffie.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Martin Hellman](people/martin_hellman.md), Privacy advocate
 * [Hal Finney](people/hal_finney.md) - 90s Cypherpunk, Received first Bitcoin transaction (from Satoshi), Strong candidate for Satoshi
 * [David D. Friedman](people/david_d_friedman.md) - Son of Milton, Anarcho-Capitalist theorist, "Crypto-Anarchy" draws a lot from his work
 * [John Gilmore](people/john_gilmore.md) - Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation
 * [Ian Grigg](people/ian_grigg.md) - 90s Cypherpunk, Inventor of Ricardian Contracts
-* [Martin Hellman](people/martin_hellman.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with Whitfield Diffie
+* [Martin Hellman](people/martin_hellman.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Whitfield Diffie](people/whitfield_diffie.md)
 * [Eric Hughes](people/eric_hughes.md) - Founding member of the Cypherpunk Mailing List,
 * [Timothy C. May](people/timothy_c_may.md) - Founding member of Cypherpunk Mailing List, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
 * [Ralph C. Merkle](people/ralph_c_merkle.md) - Cryptographer, One of the inventors of Public Key Cryptography, Inventor of the cryptographic hash
@@ -41,37 +41,37 @@ These seems like appropriate first items to include:
 
 ## Notable People (A-Z)
 
-* Gavin Andresen - Satoshi's successor, Managed the project after his departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* Jacob Appelbaum - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
-* Andreas Antonopoulos - Bitcoin evangelist, Author of "Mastering Bitcoin"
-* Andrew Auernheimer (weev) - White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
-* Clifford Cocks - British Intelligence Cryptographer, Invented Public Key Cryptography but it was kept classified by British Intelligence
-* Matt Corallo - Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* Paul Calder Le Roux - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
-* Rick Falkvinge - Founder of the Swedish Pirate Party, Political activist, Bitcoiner
-* Cory Fields - Bitcoin Core developer, Holds the number 4 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* Luke-jr (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
-* Mark Karpeles - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
-* Dave Kleiman - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of Craig Wright
-* Moxie Marlinspike - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
-* Michael Marquart (Theymos) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
-* Gregory Maxwell - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
-* Jonas Schnelli - Bitcoin Core developer, Holds the number 6 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* Charlie Shrem - Former CEO of the BitInstant bitcoin exchange, Former Bitcoin Foundation board member, Served a short prison term for supplying bitcoin to a user (BTCKing) who intended to sell them for use on the Silk Road dark web market
-* Amir Taaki - Anarchist, Created the Bitcoin Improvement Proposal system, Former Bitcoinica employee, Founder of DarkWallet, Former fighter in Rojava, Syria for the Kurdish YPG
-* Peter Todd - Bitcoin Core developer, Researcher, Vocal critic within the cryptocurrency space
-* Zhou Tong - Founder of Bitcoinica
-* Wladimir J. Van Der Laan, Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* Roger Ver - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controvertial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with Jihan Wu seen as a figurehead of that faction
-* Cody Wilson - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with Amir Taaki on DarkWallet as a kind of spokesman/propagandist
-* Craid Wright - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
-* Jihan Wu - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with Roger Ver as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
-* Peter Wuille - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
+* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after his departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
+* [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of "Mastering Bitcoin"
+* [Andrew Auernheimer (weev)](people/weev.md) - White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
+* [Clifford Cocks](people/clifford_cocks.md) - British Intelligence Cryptographer, Invented Public Key Cryptography but it was kept classified by British Intelligence
+* [Matt Corallo](people/matt_corallo.md) - Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Paul Calder Le Roux](people/paul_calder_le_roux.md) - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
+* [Rick Falkvinge](people/rick_falkvinge.md) - Founder of the Swedish Pirate Party, Political activist, Bitcoiner
+* [Cory Fields](people/cory_fields.md) - Bitcoin Core developer, Holds the number 4 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
+* [Mark Karpeles](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
+* [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of Craig Wright
+* [Moxie Marlinspike (pseudonym)](people/moxie_arlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
+* [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
+* [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
+* [Jonas Schnelli](people/jonas_schnelli.md) - Bitcoin Core developer, Holds the number 6 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Charlie Shrem](people/charlie_shrem.md) - Former CEO of the BitInstant bitcoin exchange, Former Bitcoin Foundation board member, Served a short prison term for supplying bitcoin to a user (BTCKing) who intended to sell them for use on the Silk Road dark web market
+* [Amir Taaki](people/amir_taaki.md) - Anarchist, Created the Bitcoin Improvement Proposal system, Former Bitcoinica employee, Founder of DarkWallet, Former fighter in Rojava, Syria for the Kurdish YPG
+* [Peter Todd](people/peter_todd.md) - Bitcoin Core developer, Researcher, Vocal critic within the cryptocurrency space
+* [Zhou Tong](people/zhou_tong.md) - Founder of Bitcoinica, Major player in the early Bitcoin community
+* [Wladimir J. Van Der Laan](people/wladimir_j_van_der_laan.md) - Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Roger Ver](people/roger_ver.md) - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controvertial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with Jihan Wu seen as a figurehead of that faction
+* [Cody Wilson](people/cody_wilson.md) - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with Amir Taaki on DarkWallet as a kind of spokesman/propagandist
+* [Craig Wright](people/craig_wright.md) - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
+* [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with Roger Ver as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
+* [Peter Wuille](people/peter_wuille.md) - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
 
 ## Notable Orginisations (A-Z)
 
-* Electronic Frontier Foundation
-* Paralelni Polis - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) phisical location to only accept payment in Bitcoin
+* [Electronic Frontier Foundation](events/eff.md)
+* [Paralelni Polis](events/paralelni_polis.md) - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) phisical location to only accept payment in Bitcoin
 
 ## Notable Events
 
