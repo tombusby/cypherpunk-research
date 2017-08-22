@@ -3,7 +3,7 @@ This repository is essentially for compiling information about Cypherpunks, the 
 
 I'm going to do my best to avoid giving this list any internal political bias. By this I mean that I will be openly biased in favour of Cypherpunk ideals themselves, but I will try to avoid picking a side in things like the block-size debate. If you feel any of my wording is biased, feel free to send me a PR to correct it, and I will try to evaluate it fairly.
 
-The reason I'm putting this archive on github is to make it easier for others to add sources as a pull request. Whatever I do with the information collated here, it could be useful to the community at large.
+The reason I'm putting this archive on github is to make it easier for others to add sources as a pull request. Whatever I end up doing with the information collated here, this organised list could be useful to the community at large.
 
 I'm also including a few other people and events that aren't strictly cypherpunk because I feel they relate sufficiently to outcomes predicted by the cypherpunks.
 
@@ -100,7 +100,7 @@ These seems like appropriate first items to include:
 
 ## Historical Sources & Media Articles
 
-* 01-Jan-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
+* 01-Feb-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
 
 ## Successor Online Communities
 
