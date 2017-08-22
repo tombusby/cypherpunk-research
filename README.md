@@ -24,7 +24,7 @@ These seems like appropriate first items to include:
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
 * [Wei Dai](people/wei_dai.md) - 90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money
 * [Whitfield Diffie](people/whitfield_diffie.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Martin Hellman](people/martin_hellman.md), Privacy advocate
-* [Hal Finney](people/hal_finney.md) - 90s Cypherpunk, Received first Bitcoin transaction (from Satoshi), Strong candidate for Satoshi
+* [Hal Finney](people/hal_finney.md) - 90s Cypherpunk, Received first Bitcoin transaction (from [Satoshi](people/satoshi_nakamoto.md)), Strong candidate for [Satoshi](people/satoshi_nakamoto.md)
 * [David D. Friedman](people/david_d_friedman.md) - Son of Milton, Anarcho-Capitalist theorist, "Crypto-Anarchy" draws a lot from his work
 * [John Gilmore](people/john_gilmore.md) - Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation
 * [Ian Grigg](people/ian_grigg.md) - 90s Cypherpunk, Inventor of Ricardian Contracts
@@ -35,7 +35,7 @@ These seems like appropriate first items to include:
 * [Satoshi Nakamoto](people/satoshi_nakamoto.md) - Pseudonymous Founder of Bitcoin, May be a person or group, Many people put forward as possible candidates, Very probably the alias of a 90s Cypherpunk
 * [John Perry Barlow](people/john_perry_barlow.md) - 90s Cypherpunk, Author of "A Declaration of the Independence of Cyberspace"
 * [Edward Snowden](people/edward_snowden.md) - Former NSA contractor turned leaker, is clearly inspired by Cypherpunk ideals
-* [Nick Szabo](people/nick_szabo.md) - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for Satoshi
+* [Nick Szabo](people/nick_szabo.md) - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for [Satoshi](people/satoshi_nakamoto.md)
 * [Ross Ulbricht](people/ross_ulbricht.md) - Founder of the Silk Road dark net market, Currently serving life in prison
 * [Phil Zimmerman](people/phil_zimmerman.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
 
@@ -43,9 +43,9 @@ These seems like appropriate first items to include:
 
 * [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after his departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
-* [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of "Mastering Bitcoin"
+* [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Andrew Auernheimer (weev)](people/weev.md) - White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
-* [Clifford Cocks](people/clifford_cocks.md) - British Intelligence Cryptographer, Invented Public Key Cryptography but it was kept classified by British Intelligence
+* [Clifford Cocks](people/clifford_cocks.md) - British Intelligence Cryptographer, Invented Public Key Cryptography but his work was kept classified until 1997
 * [Matt Corallo](people/matt_corallo.md) - Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Paul Calder Le Roux](people/paul_calder_le_roux.md) - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
 * [Rick Falkvinge](people/rick_falkvinge.md) - Founder of the Swedish Pirate Party, Political activist, Bitcoiner
@@ -59,15 +59,15 @@ These seems like appropriate first items to include:
 * [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
 * [Jonas Schnelli](people/jonas_schnelli.md) - Bitcoin Core developer, Holds the number 6 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Charlie Shrem](people/charlie_shrem.md) - Former CEO of the BitInstant bitcoin exchange, Former Bitcoin Foundation board member, Served a short prison term for supplying bitcoin to a user (BTCKing) who intended to sell them for use on the Silk Road dark web market
-* [Amir Taaki](people/amir_taaki.md) - Anarchist, Created the Bitcoin Improvement Proposal system, Former Bitcoinica employee, Founder of DarkWallet, Former fighter in Rojava, Syria for the Kurdish YPG
+* [Amir Taaki](people/amir_taaki.md) - Anarchist, Created the Bitcoin Improvement Proposal system, Former [Bitcoinica](events/bitcoinica.md) employee, Founder of DarkWallet, Former fighter in Rojava, Syria for the Kurdish YPG
 * [Peter Todd](people/peter_todd.md) - Bitcoin Core developer, Researcher, Vocal critic within the cryptocurrency space
-* [Zhou Tong](people/zhou_tong.md) - Founder of Bitcoinica, Major player in the early Bitcoin community
+* [Zhou Tong](people/zhou_tong.md) - Founder of [Bitcoinica](events/bitcoinica.md), Major player in the early Bitcoin community
 * [Wladimir J. Van Der Laan](people/wladimir_j_van_der_laan.md) - Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* [Roger Ver](people/roger_ver.md) - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controvertial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with Jihan Wu seen as a figurehead of that faction
+* [Roger Ver](people/roger_ver.md) - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controvertial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with [Jihan Wu](people/jihan_wu.md) seen as a figurehead of that faction
 * [Eric Voorhees](people/eric_voorhees.md) - Former BitInstant employee, Founder of Coinapult, Outspoken pundit, Ideological convictions
-* [Cody Wilson](people/cody_wilson.md) - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with Amir Taaki on DarkWallet as a kind of spokesman/propagandist
+* [Cody Wilson](people/cody_wilson.md) - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with [Amir Taaki](people/amir_taaki.md) on DarkWallet as a kind of spokesman/propagandist
 * [Craig Wright](people/craig_wright.md) - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
-* [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with Roger Ver as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
+* [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with [Roger Ver](people/roger_ver.md) as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
 * [Peter Wuille](people/peter_wuille.md) - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
 
 ## Notable Orginisations (A-Z)
@@ -100,6 +100,7 @@ These seems like appropriate first items to include:
 ## Technical Sources
 
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
+* Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
 
 ## Key Concepts
 
