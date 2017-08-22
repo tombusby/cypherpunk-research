@@ -11,7 +11,7 @@ Phil Zimmerman was a key player in the [90s Crypto Wars](/events/90s_crypto_wars
 
 ## Links
 
-* [90s Crypto Wars entry in this repository](/people/90s_crypto_wars.md)
+* [90s Crypto Wars entry in this repository](/events/90s_crypto_wars.md)
 * [Phil Zimmerman on Wikipedia](https://en.wikipedia.org/wiki/Phil_Zimmermann)
 * [Pretty Good Privacy (PGP) on Wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 * 01-Jan-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
