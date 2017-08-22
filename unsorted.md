@@ -78,7 +78,6 @@ https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end
 https://www.wired.com/2016/03/why-are-we-fighting-the-crypto-wars-again/?gi=5aa7b706fd64
 https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/?gi=5753423884f8
 https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/
-https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/
 http://thehill.com/policy/cybersecurity/268613-mccain-pushes-for-encryption-legislation-in-fight-against-isis
 http://unenumerated.blogspot.com/2017/02/money-blockchains-and-social-scalability.html
 http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf (The Moral Character of Cryptographic Work)
