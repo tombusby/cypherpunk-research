@@ -5,4 +5,4 @@ _placeholder_
 
 ## Links
 
-* _placeholder_
+* 10-Mar-2016 Atavist Magazine [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff
