@@ -18,7 +18,7 @@ These seems like appropriate first items to include:
 ## Very Notable People (A-Z)
 
 * [Julian Assange](people/julian_assange.md) - Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday
-* [Adam Back](people/adam_back.md) - Inventor of HashCash, 90s Cypherpunk, CEO of Blockstream
+* [Adam Back](people/adam_back.md) - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
 * [Vitalik Buterin](people/vitalik_buterin.md) - Creator of Ethereum
 * [David Chaum](people/david_chaum.md) - Cryptographer and ideological forefather of the Cypherpunk movement
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
