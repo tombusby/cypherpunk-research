@@ -5,4 +5,4 @@ _placeholder_
 
 ## Links
 
-* _placeholder_
+* 19-Mar-2013 BitcoinTalk.org - [Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
