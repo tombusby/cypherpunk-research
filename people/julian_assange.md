@@ -18,6 +18,7 @@ From wikipedia:
 * [wikileaks.org](https://wikileaks.org/)
 * [Julian Assange on Wikiquote](https://en.wikiquote.org/wiki/Julian_Assange)
 * 1995-2002 - [Julian Assange's messages to the Cypherpunk Mailing List](https://cryptome.org/0001/assange-cpunks.htm)
+* 27-Dec-2010 Wired Magazine - [2010: The Year the Internet Went to War](https://www.wired.com/2010/12/internet-war/) by David Kravets
 * Oct 2013 Vanity Fair [The Man Who Came to Dinner](https://www.vanityfair.com/news/politics/2013/10/julian-assange-hideout-ecuador) by Sarah Ellison
 * 18-Oct-2016 The Telegraph (UK) - [Ecuador 'cuts Julian Assange's internet access' after Hillary Clinton leaks](http://www.telegraph.co.uk/news/2016/10/18/ecuador-cuts-julian-assanges-internet-access-after-hillary-clint/)
 * 21-Aug-2017 New Yorker Magazine - [Julian Assange, a Man Without a Country](http://www.newyorker.com/magazine/2017/08/21/julian-assange-a-man-without-a-country) by Raffi Khatchadourian
