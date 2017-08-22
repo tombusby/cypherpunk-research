@@ -65,6 +65,7 @@ These seems like appropriate first items to include:
 * Wladimir J. Van Der Laan
 * Roger Ver
 * Cody Wilson
+* Jihan Wu
 * Peter Wuille
 
 ## Notable Events
