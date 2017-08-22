@@ -63,6 +63,7 @@ These seems like appropriate first items to include:
 * [Zhou Tong](people/zhou_tong.md) - Founder of Bitcoinica, Major player in the early Bitcoin community
 * [Wladimir J. Van Der Laan](people/wladimir_j_van_der_laan.md) - Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Roger Ver](people/roger_ver.md) - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controvertial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with Jihan Wu seen as a figurehead of that faction
+* [Eric Voorhees](people/eric_voorhees.md) - Former BitInstant employee, Founder of Coinapult, Outspoken pundit, Ideological convictions
 * [Cody Wilson](people/cody_wilson.md) - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with Amir Taaki on DarkWallet as a kind of spokesman/propagandist
 * [Craig Wright](people/craig_wright.md) - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
 * [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with Roger Ver as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
@@ -96,6 +97,10 @@ These seems like appropriate first items to include:
 
 ## Technical Sources
 
+* 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
+
+## Key Concepts
+
 * _placeholder_
 
 ## Historical Sources & Media Articles
@@ -104,9 +109,16 @@ These seems like appropriate first items to include:
 
 ## Successor Online Communities
 
-* [/r/bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/)
 * [bitcointalk Forum](https://bitcointalk.org/)
+* [/r/bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/) - Generally pro SegWit/Small-blocks
+* [/r/btc Subreddit](https://www.reddit.com/r/btc/) - Generally pro BU/Bitcoin Cash/Big-blocks
 
-## Key Concepts to Explain
+# Current Publications/Blogs (A-Z)
 
-* _placeholder_
+* [Bitcoin Magazine](https://bitcoinmagazine.com)
+* [CoinDesk](https://www.coindesk.com)
+* [Coin Telegraph](https://cointelegraph.com)
+
+# Other Resource Lists:
+
+* [Jameson Lopp's Bitcoin Resource List](http://lopp.net/bitcoin.html)
