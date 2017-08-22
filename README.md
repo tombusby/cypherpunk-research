@@ -108,6 +108,7 @@ These seems like appropriate first items to include:
 * 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
+* Dec 1994 Cypherpunk Mailing List - [Crypto Anarchy and Virtual Communities](http://nakamotoinstitute.org/virtual-communities/) by [Timothy C. May](people/timothy_c_may.md)
 * 08-Feb-1996 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) by [John Perry Barlow](people/john_perry_barlow.md)
 * 04-Apr-1997 - [Assassination Politics](http://cryptome.org/ap.htm) by [Jim Bell](people/jim_bell.md)
 
