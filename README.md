@@ -75,19 +75,19 @@ These seems like appropriate first items to include:
 
 ## Notable Events
 
-* The Discovery of Public Key Cryptography
-* [1990s Crypto Wars, Phil Zimmerman and PGP](events/90s_crypto_wars.md)
-* 2008/2009 - The Creation of Bitcoin and Early Community
-* 2011 - The Great Bitcoin Bubble of 2011
-* Feb 2011-Oct 2013 - The Rise and Fall of the Silk Road
-* Mar 2012 - The Bitcoinica Hack
-* June 2013 - The Snowden Leaks
-* Apr-Dec 2013 - The Second and Third Bitcoin Bubbles
-* Feb 2014 - The Collapse of Mt Gox (The Final Goxxing)
-* Feb 2015 - The Trial of Ross Ulbricht
-* June 2016 - The DAO Hack
-* Early 2017 - The Altcoin/ICO Bubble and Fourth Bitcoin Bubble
-* Jul/Aug 2017 - Bitcoin Scaling Battles (Big vs Small Blockers and SegWit vs Bitcoin Cash)
+* 1970s - [The Discovery of Public Key Cryptography](events/public_crypto_discovery.md)
+* 1990s - [Crypto Wars, Phil Zimmerman and PGP](events/90s_crypto_wars.md)
+* 2008/2009 - [The Creation of Bitcoin and Early Community](events/creation_of_bitcoin.md)
+* Jun 2011 - [The Great Bitcoin Bubble of 2011](events/bitcoin_2011_bubble.md)
+* Feb 2011-Oct 2013 - [The Rise and Fall of the Silk Road](events/the_silk_road.md)
+* Mar 2012 - [The Bitcoinica Hack](events/bitcoinica.md)
+* June 2013 - [The Snowden Leaks](events/snowden_leaks.md)
+* Apr-Dec 2013 - [The Second and Third Bitcoin Bubbles](events/2013_bitcoin_bubbles.md)
+* Feb 2014 - [The Collapse of Mt Gox (The Final Goxxing)](events/mtgox.md)
+* Feb 2015 - [The Trial of Ross Ulbricht](events/ross_ulbricht.md)
+* June 2016 - [The DAO Hack](events/dao_hack.md)
+* Early 2017 - [The Altcoin/ICO Bubble and Fourth Bitcoin Bubble](events/2017_bubbles.md)
+* Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
 
 ## Philosophical/Ideological Sources
 
@@ -110,5 +110,3 @@ These seems like appropriate first items to include:
 ## Key Concepts to Explain
 
 * _placeholder_
-
-
