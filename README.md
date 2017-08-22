@@ -1,4 +1,6 @@
+
 # cypherpunk-research
+
 This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note. I intend to use the research here to write a series of articles, and maybe a book if time allows.
 
 I'm going to do my best to avoid giving this list any internal political bias. By this I mean that I will be openly biased in favour of Cypherpunk ideals themselves, but I will try to avoid picking a side in things like the block-size debate. If you feel any of my wording is biased, feel free to send me a PR to correct it, and I will try to evaluate it fairly.
@@ -6,6 +8,14 @@ I'm going to do my best to avoid giving this list any internal political bias. B
 The reason I'm putting this archive on github is to make it easier for others to add sources as a pull request. Whatever I end up doing with the information collated here, this organised list could be useful to the community at large.
 
 I'm also including a few other people and events that aren't strictly cypherpunk because I feel they relate sufficiently to outcomes predicted by the cypherpunks.
+
+## HOW TO CONTRIBUTE
+
+[Click here if you think I've made an error, or would like to add something to the list.](how_to_contribute.md)
+
+## For updates on this project:
+
+[![@_tombusby on Twitter](images/_tombusby_twitter.png)](https://twitter.com/_tombusby)
 
 ## The Cypherpunk Mailing List Archives and FAQ
 
