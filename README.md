@@ -50,6 +50,7 @@ These seems like appropriate first items to include:
 * [Paul Calder Le Roux](people/paul_calder_le_roux.md) - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
 * [Rick Falkvinge](people/rick_falkvinge.md) - Founder of the Swedish Pirate Party, Political activist, Bitcoiner
 * [Cory Fields](people/cory_fields.md) - Bitcoin Core developer, Holds the number 4 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Jeff Garzik](people/jeff_garzik.md) - Former Bitcoin Core developer, Now development lead of SegWit2X hard fork proposal
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
 * [Mark Karpeles](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
 * [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of Craig Wright
@@ -86,6 +87,7 @@ These seems like appropriate first items to include:
 * Apr-Dec 2013 - [The Second and Third Bitcoin Bubbles](events/2013_bitcoin_bubbles.md)
 * Feb 2014 - [The Collapse of Mt Gox (The Final Goxxing)](events/mtgox.md)
 * Feb 2015 - [The Trial of Ross Ulbricht](events/ross_ulbricht.md)
+* May 2016 - [The Craig Wright Affair (and other attempts to identify Satoshi)](events/craig_wright_satoshi.md)
 * June 2016 - [The DAO Hack](events/dao_hack.md)
 * Early 2017 - [The Altcoin/ICO Bubble and Fourth Bitcoin Bubble](events/2017_bubbles.md)
 * Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
