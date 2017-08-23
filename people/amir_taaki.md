@@ -61,7 +61,7 @@ From wikipedia:
 * 09-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 1](https://www.youtube.com/watch?v=0fGPhwVUeug)
 * 10-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 2](https://www.youtube.com/watch?v=EBsIEySNOiM)
 * 25-Feb-2014 Coinscrum Talk - [Amir Taaki Dark Wallet Live Coinscrum Alternative Stage London](https://www.youtube.com/watch?v=KUjoBHfgg8w)
-* 14-Apr-2014 BraveTheWorld - [Amir Taaki "We are the custodians of life's meaning"](https://www.youtube.com/watch?v=COisLGwnb-M)
+* 14-Apr-2014 BraveTheWorld on Youtube - [Amir Taaki "We are the custodians of life's meaning"](https://www.youtube.com/watch?v=COisLGwnb-M)
 * 22-Apr-2014 CoinDesk - [DarkMarket Team Win Toronto Bitcoin Expo Hackathon](https://www.coindesk.com/airbitz-wins-toronto-bitcoin-expo-hackathon-darkmarket/) by Nermin Hajdarbegovic
 * 24-Apr-2014 Defense Distributed - [Dark Wallet Alpha](https://www.youtube.com/watch?v=6VFopiRaXwQ)
 * 29-Apr-2014 Wired Magazine - ['Dark Wallet' Is About to Make Bitcoin Money Laundering Easier Than Ever](https://www.wired.com/2014/04/dark-wallet/) by Andy Greenberg
@@ -70,7 +70,7 @@ From wikipedia:
 * 06-May-2014 Let's Talk Bitcoin - [Exploring Bitcoin with Amir Taaki - Part 3](https://www.youtube.com/watch?v=WBxeAtagN6E)
 * 07-May-2014 Let's Talk Bitcoin - [Exploring Bitcoin with Amir Taaki - Let's Talk Bitcoin Episode 106](https://www.youtube.com/watch?v=7M1Y2wYIjEI)
 * 08-May-2014 Let's Talk Bitcoin - [Amir Taaki on his Hackathon winning Dark Market](https://www.youtube.com/watch?v=aNmBKC99Wts)
-* 12-May-2014 BraveTheWorld - [I AM ANARCHY- Amir Taaki](https://www.youtube.com/watch?v=nU2ehHpg9Cw)
+* 12-May-2014 BraveTheWorld on Youtube - [I AM ANARCHY- Amir Taaki](https://www.youtube.com/watch?v=nU2ehHpg9Cw)
 * 19-May-2014 WeAreChange - [Anarchistic Anonymous Dark Wallet Creator: Amir Taaki](https://www.youtube.com/watch?v=A0tCaOI0UYM)
 * 22-May-2014 Let's Talk Bitcoin - [Amir Taaki - Discovering Life's Meaning - Part 1](https://www.youtube.com/watch?v=lusmof1hHw0)
 * 23-May-2014 Let's Talk Bitcoin - [Amir Taaki - Discovering Life's Meaning - Part 2](https://www.youtube.com/watch?v=8jX37B54R34)
@@ -88,10 +88,10 @@ From wikipedia:
 * 22-Jun-2016 Bloomberg Businessweek - [A Crypto-Anarchist Will Help You Build a DIY AR-15](https://www.bloomberg.com/features/2016-cody-wilson-ghost-gunner-ar-15/) by Bryan Schutmaat
 * 01-Jan-2015 Wired Magazine - [The Most Dangerous People on the Internet Right Now](https://www.wired.com/2015/01/dangerous-people-internet-right-now/)
 * 03-Feb-2015 CoinDesk - [https://www.coindesk.com/meet-darkleaks-bitcoin-powered-black-market-secrets/](Meet Darkleaks, a Bitcoin-Powered Black Market for Secrets) by Grace Caffyn
-* 06-Jul-2015 BraveTheWorld - [The Silk Road Had Multiple DPRs - Amir Taaki](https://www.youtube.com/watch?v=qJaMGua9GfU)
+* 06-Jul-2015 BraveTheWorld on Youtube - [The Silk Road Had Multiple DPRs - Amir Taaki](https://www.youtube.com/watch?v=qJaMGua9GfU)
 * 10-Jun-2015 Vice Motherboard - [The Anarchist Hacker Bitcoin Would Rather Not Talk About](https://motherboard.vice.com/en_us/article/ypw985/the-anarchist-hacker-bitcoin-would-rather-not-talk-about) by Joshi Hermann
 * 02-Sep-2015 Coin Telegraph - [Darkwallet Developers Go Dark](https://cointelegraph.com/news/darkwallet-developers-go-dark) by Juan S. Galt
-* 03-Sep-2015 BraveTheWorld - [The End of History Has Ended](http://bravetheworld.com/2015/09/03/history-ended-2/) by Amir Taaki
+* 03-Sep-2015 BraveTheWorld on Youtube - [The End of History Has Ended](http://bravetheworld.com/2015/09/03/history-ended-2/) by Amir Taaki
 * 23-Jan-2017 Variety - [Sundance Film Review: ‘The New Radical’](http://variety.com/2017/film/reviews/the-new-radical-review-1201967572/) by Owen Gleiberman
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
 * 29-Mar-2017 BBC News - [Bitcoin entrepreneur Amir Taaki quizzed over fighting in Syria](http://www.bbc.com/news/uk-39417937) by Emma Vardy

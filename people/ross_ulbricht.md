@@ -19,6 +19,8 @@ From wikipedia:
 * 30-Mar-2015 Wired Magazine - [DEA Agent Charged With Acting as a Paid Mole for Silk Road](https://www.wired.com/2015/03/dea-agent-charged-acting-paid-mole-silk-road/) by Andy Greenberg
 * April 2015 Wired Magazine - [The Untold Story of Silk Road, Part 1 - The Rise of Silk Road](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
 * May 2015 Wired Magazine - [The Untold Story of Silk Road, Part 2 - The Fall](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
+* 08-Aug-2015 Free Ross on Youtube - [Cody Wilson: "Ross Ulbricht is paying for being ethical" #FreeRoss"](https://www.youtube.com/watch?v=CEKswztcEng) with [Cody Wilson](/people/cody_wilson.md)
 * 12-Jan-2016 Wired Magazine - [In Silk Road Appeal, Ross Ulbricht's Defense Focuses on Corrupt Feds](https://www.wired.com/2016/01/ross-ulbrichts-defense-focuses-on-corrupt-feds-in-silk-road-appeal/) by Andy Greenberg
 * 29-Nov-2016 Wired Magazine - [Ross Ulbricht's Lawyers Say They've Found Another Corrupt Agent in Silk Road Case](https://www.wired.com/2016/11/ross-ulbrichts-lawyers-point-another-corrupt-agent-silk-road-case/) by Andy Greenberg
+* 09-May-2017 The Crypto Show on Youtube - [Lyn Ulbricht & Cody Wilson on American Kingpin a hit piece littered with lies](https://www.youtube.com/watch?v=odFGizWeQ5s) with [Cody Wilson](/people/cody_wilson.md)
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
