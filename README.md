@@ -145,6 +145,7 @@ These seem like appropriate first items to include:
 * [/r/btc Subreddit](https://www.reddit.com/r/btc/) - Generally pro BU/Bitcoin Cash/Big-blocks
 * [Bitcoin Core Slack](https://bitcoincore.slack.com)
 * [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+* [/r/ethereum Subreddit](https://www.reddit.com/r/ethereum/)
 
 ## Current Publications/Blogs (A-Z)
 
