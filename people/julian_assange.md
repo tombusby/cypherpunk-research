@@ -11,7 +11,7 @@ From wikipedia:
 
 ## Links
 
-**There are just an enourmous amount of sources available on Julian, if anyone could help me compile them with a PR I would really appreciate it**
+*There are just an enourmous amount of sources available on Julian, if anyone could help me compile them with a PR I would really appreciate it*
 
 * [Julian Assange on Wikipedia](https://en.wikipedia.org/wiki/Julian_Assange)
 * [Wikileaks on Wikipedia](https://en.wikipedia.org/wiki/WikiLeaks)
