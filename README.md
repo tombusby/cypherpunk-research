@@ -23,7 +23,7 @@ Almost all the pages currently are placeholders. The following people/events hav
 
 People:
 
-[Julian Assange](people/julian_assange.md), [Adam Back](people/adam_back.md), [Jim Bell](people/jim_bell.md), [Bram Cohen](people/bram_cohen.md), [Vitalik Buterin](people/vitalik_buterin.md), [Hal Finney](people/hal_finney.md), [Timothy C. May](people/timothy_c_may.md), [Satoshi Nakamoto](people/satoshi_nakamoto.md), [John Perry Barlow](people/john_perry_barlow.md), [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md), [Phil Zimmerman](people/phil_zimmerman.md), [Paul Calder Le Roux](people/paul_calder_le_roux.md), [Peter Todd](people/peter_todd.md), [Cody Wilson](people/cody_wilson.md)
+[Julian Assange](people/julian_assange.md), [Adam Back](people/adam_back.md), [Jim Bell](people/jim_bell.md), [Bram Cohen](people/bram_cohen.md), [Vitalik Buterin](people/vitalik_buterin.md), [Hal Finney](people/hal_finney.md), [Timothy C. May](people/timothy_c_may.md), [Satoshi Nakamoto](people/satoshi_nakamoto.md), [John Perry Barlow](people/john_perry_barlow.md), [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md), [Phil Zimmerman](people/phil_zimmerman.md), [Paul Calder Le Roux](people/paul_calder_le_roux.md), [Peter Todd](people/peter_todd.md), [Cody Wilson](people/cody_wilson.md), [Amir Taaki](people/amir_taaki.md)
 
 Events:
 
