@@ -96,7 +96,7 @@ From wikipedia:
 * 02-Jun-2014 ComputerWorld.com - [http://www.computerworld.com/article/2490134/emerging-technology/q-a--3d-gun-maker-cody-wilson-defends-freedom-to-print-guns.html](http://www.computerworld.com/article/2490134/emerging-technology/q-a--3d-gun-maker-cody-wilson-defends-freedom-to-print-guns.html) by Lucas Mearian
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
 * 09-Jul-2014 Contrarian Dude on Youtube - [Cody Wilson on Anonymity, Defense Distributed and Dark Wallet](https://www.youtube.com/watch?v=ILEHMZVIMcQ)
-* 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A)
+* 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A) with [Peter Todd](/people/peter_todd.md) and [Amir Taaki](/people/amir_taaki.md)
 * 15-Sep-2014 RT.com - [3D printed gun creator: I looked at modern society and saw that it's a constantly derailed train](https://www.rt.com/shows/sophieco/187780-3d-printed-gun-control/)
 * 16-Sep-2014 RT on Youtube - ['Gun control is dangerous': RT talks to 3D-printable gun inventor](https://www.youtube.com/watch?v=-mBFI56FkR0)
 * 21-Sep-2014 Defence Distributed on Youtube - [October Surprise](https://www.youtube.com/watch?v=fO30z2o6-t0)
