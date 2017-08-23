@@ -146,12 +146,12 @@ These seems like appropriate first items to include:
 * [Bitcoin Core Slack](https://bitcoincore.slack.com)
 * [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 
-# Current Publications/Blogs (A-Z)
+## Current Publications/Blogs (A-Z)
 
 * [Bitcoin Magazine](https://bitcoinmagazine.com)
 * [CoinDesk](https://www.coindesk.com)
 * [Coin Telegraph](https://cointelegraph.com)
 
-# Other Resource Lists:
+## Other Resource Lists:
 
 * [Jameson Lopp's Bitcoin Resource List](http://lopp.net/bitcoin.html)
