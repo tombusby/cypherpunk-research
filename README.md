@@ -127,7 +127,7 @@ These seems like appropriate first items to include:
 ## Historical Sources & Media Articles
 
 * 01-Feb-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
-* 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/) by "Wired Staff"
+* 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
 * 30-Mar-2015 Wired Magazine - [DEA Agent Charged With Acting as a Paid Mole for Silk Road](https://www.wired.com/2015/03/dea-agent-charged-acting-paid-mole-silk-road/) by Andy Greenberg
