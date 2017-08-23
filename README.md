@@ -19,7 +19,7 @@ The reason I'm putting this archive on github is to make it easier for others to
 
 ## The Cypherpunk Mailing List Archives and FAQ
 
-These seems like appropriate first items to include:
+These seem like appropriate first items to include:
 
 [1992-1998 Archives](https://github.com/Famicoman/cypherpunks-mailing-list-archives/tree/master/cryptome.org)
 
