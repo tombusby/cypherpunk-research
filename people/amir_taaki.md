@@ -55,7 +55,7 @@ From wikipedia:
 * 24-Sep-2013 The New Yorker - [Dark Wallet: A Radical Way to Bitcoin](http://www.newyorker.com/business/currency/dark-wallet-a-radical-way-to-bitcoin) by Michael del Castillo
 * 30-Sep-2013 Macao Meravigliao - [Amir Taaki / Bitcoin = interview @ Macao](https://www.youtube.com/watch?v=sl2GDcNL6ak)
 * 14-Oct-2013 Let's Talk Bitcoin - [Amir Taaki on the Broader Culture and Opportunities Ahead](https://www.youtube.com/watch?v=GWFE9QQRQxU)
-* 21-Oct-2013 Defence Distributed - [Dark Wallet](https://www.youtube.com/watch?v=Ouo7Q6Cf_yc)
+* 21-Oct-2013 Defence Distributed on Youtube - [Dark Wallet](https://www.youtube.com/watch?v=Ouo7Q6Cf_yc)
 * 31-Oct-2013 Forbes - [Dark Wallet Aims To Be The Anarchist's Bitcoin App Of Choice](https://www.forbes.com/sites/andygreenberg/2013/10/31/darkwallet-aims-to-be-the-anarchists-bitcoin-app-of-choice/#b394a5a4cadf) by Andy Greenberg
 * 01-Nov-2013 Bitcoin Magazine - [Shedding Light on the Dark Wallet](https://bitcoinmagazine.com/articles/shedding-light-on-the-dark-wallet-1383357523/) by [Vitalik Buterin](/people/vitalik_buterin.md)
 * 09-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 1](https://www.youtube.com/watch?v=0fGPhwVUeug)
