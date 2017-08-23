@@ -141,6 +141,7 @@ From wikipedia:
 * 24-Jan-2017 BlogTalkRadio (Southern Sense) - [Not From My Cold Dead Hands: Cody Wilson & Larry Pratt](http://www.blogtalkradio.com/southernsense/2017/01/24/not-from-my-cold-dead-hands-cody-wilson-larry-pratt)
 * 25-Jan-2017 The Verge - [The New Radical, Cody Wilson, and the Future of 3D-Printed Guns](https://www.theverge.com/2017/1/25/14380730/the-new-radical-cody-wilson-tech-anarchy-documentary-sundance-2017) by Tasha Robinson
 * 05-Mar-2017 The Sydney Morning Herald - [3D printed gun plans downloaded by thousands of Australians says Cody Wilson](http://www.smh.com.au/national/thousands-of-aussies-download-instructions-on-how-to-make-a-3d-gun-20170302-gupd5w.html) by Julie Power
+* 25-Mar-2017 The Crypto Show on Youtube - [Cody Wilson on the film "The New Radical"](https://www.youtube.com/watch?v=tAUJujvNHlc)
 * 08-Mar-2017 Ammoland - [Cody Wilson Interview – Is He Any Less Dangerous?](https://www.ammoland.com/2017/03/cody-wilson-interview/#axzz4qa7IPcT9) by John Crump
 * 09-May-2017 The Crypto Show on Youtube - [Lyn Ulbricht & Cody Wilson on American Kingpin a hit piece littered with lies](https://www.youtube.com/watch?v=odFGizWeQ5s)
 * 20-Jun-2017 WBAP Talk Radio - [Chris Salcedo: Cody Wilson Interview on Guns](http://www.wbap.com/2017/06/20/chris-salcedo-cody-wilson-interview-on-guns/)

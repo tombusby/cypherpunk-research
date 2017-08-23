@@ -5,4 +5,4 @@ _placeholder_
 
 ## Links
 
-* _placeholder_
+* 27-May-2017 Balaji S. Srinivasan on Medium - [Thoughts on Tokens](https://news.21.co/thoughts-on-tokens-436109aabcbe)

@@ -113,3 +113,16 @@ https://www.welivesecurity.com/2015/09/02/bitcoin-community-needs-collaborate-se
 https://www.coindesk.com/stealth-addresses-secret-bitcoin-privacy/
 https://www.coindesk.com/anatomy-bitcoin-scaling-debate/
 http://fortune.com/2015/06/25/openbazaar-not-silk-road/
+https://tools.ietf.org/html/rfc6920 (Naming things with hashes)
+https://medium.com/@ACINQ/eclair-0-2-alpha1-is-out-3caaff242567 (lightning network)
+https://www.coindesk.com/miami-2014-last-days-bitcoins-wild-west/
+https://media.consensys.net/ever-wonder-how-merkle-trees-work-c2f8b7100ed3
+https://github.com/ChristopherA/self-sovereign-identity
+https://www.theatlantic.com/technology/archive/2017/05/meet-the-counterantidisintermediationists/527553/
+https://blockgeeks.com/guides/how-to-learn-solidity/
+https://github.com/sdmg15/Best-websites-a-programmer-should-visit
+https://news.bitcoin.com/bitcoin-bank-less-thirty-minutes-usb-drive/
+https://www.linkedin.com/pulse/20141117154558-1213-the-future-of-the-bitcoin-ecosystem-and-trustless-trust-why-i-invested-in-blockstream
+https://twitter.com/Dashpay/status/898797934518480897 (infographic about DASH)
+https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/
+http://ethdocs.org/en/latest/introduction/history-of-ethereum.html

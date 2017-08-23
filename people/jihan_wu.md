@@ -5,4 +5,4 @@ _placeholder_
 
 ## Links
 
-* _placeholder_
+* 01-May-2017 Investopedia.com - [Who is Jihan Wu, and Does He Basically Control Bitcoin Today?](http://www.investopedia.com/news/who-jihan-wu-and-does-he-basically-control-bitcoin-today/)

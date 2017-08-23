@@ -20,4 +20,7 @@ From wikipedia:
 * [Ethereum Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper)
 * [Ethereum Organisation on Wikipedia](https://github.com/ethereum)
 * 09-Aug-2013 Bitcoin Magazine - [What Libbitcoin and SX are And Why They Matter](https://bitcoinmagazine.com/articles/what-libbitcoin-and-sx-are-and-why-they-matter-1376064919/) with [Amir Taaki](/people/amir_taaki.md)
+* 31-Aug-2013 BoxxBrassin on Youtube - [Vitalik Buterin Interview - Bitcoin And The World At Large](https://www.youtube.com/watch?v=4oZs6RpLuak)
 * 01-Nov-2013 Bitcoin Magazine - [Shedding Light on the Dark Wallet](https://bitcoinmagazine.com/articles/shedding-light-on-the-dark-wallet-1383357523/) with [Amir Taaki](/people/amir_taaki.md)
+* 04-Mar-2017 Vitalik Buterin on Medium.com - [Safety Under Dynamic Validator Sets](https://medium.com/@VitalikButerin/safety-under-dynamic-validator-sets-ef0c3bbdf9f6)
+* 14-Mar-2017 Vitalik Buterin's Blog - [Hard Forks, Soft Forks, Defaults and Coercion](http://vitalik.ca/general/2017/03/14/forks_and_markets.html)

@@ -23,11 +23,11 @@ Almost all the pages currently are placeholders. The following people/events hav
 
 People:
 
-[Julian Assange](people/julian_assange.md), [Adam Back](people/adam_back.md), [Jim Bell](people/jim_bell.md), [Bram Cohen](people/bram_cohen.md), [Vitalik Buterin](people/vitalik_buterin.md), [Hal Finney](people/hal_finney.md), [Timothy C. May](people/timothy_c_may.md), [Satoshi Nakamoto](people/satoshi_nakamoto.md), [John Perry Barlow](people/john_perry_barlow.md), [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md), [Phil Zimmerman](people/phil_zimmerman.md), [Paul Calder Le Roux](people/paul_calder_le_roux.md), [Peter Todd](people/peter_todd.md), [Cody Wilson](people/cody_wilson.md), [Amir Taaki](people/amir_taaki.md)
+[Julian Assange](people/julian_assange.md), [Adam Back](people/adam_back.md), [Jim Bell](people/jim_bell.md), [Bram Cohen](people/bram_cohen.md), [Vitalik Buterin](people/vitalik_buterin.md), [Hal Finney](people/hal_finney.md), [Timothy C. May](people/timothy_c_may.md), [Satoshi Nakamoto](people/satoshi_nakamoto.md), [John Perry Barlow](people/john_perry_barlow.md), [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md), [Phil Zimmerman](people/phil_zimmerman.md), [Paul Calder Le Roux](people/paul_calder_le_roux.md), [Peter Todd](people/peter_todd.md), [Cody Wilson](people/cody_wilson.md), [Amir Taaki](people/amir_taaki.md), [Nick Szabo](people/nick_szabo.md)
 
 Events:
 
-[Crypto Wars, Phil Zimmerman and PGP](events/90s_crypto_wars.md), [The Rise and Fall of the Silk Road](events/the_silk_road.md)
+[Crypto Wars, Phil Zimmerman and PGP](events/90s_crypto_wars.md), [The Rise and Fall of the Silk Road](events/the_silk_road.md), [Bitcoin Scaling Battles](events/bitcoin_scaling.md), [The Altcoin/ICO Bubble and Fourth Bitcoin Bubble](events/2017_bubbles.md), [The Bitcoinica Hack](events/bitcoinica.md)
 
 ## The Cypherpunk Mailing List Archives and FAQ
 
@@ -122,6 +122,7 @@ These seem like appropriate first items to include:
 * Dec 1994 Cypherpunk Mailing List - [Crypto Anarchy and Virtual Communities](http://nakamotoinstitute.org/virtual-communities/) by [Timothy C. May](people/timothy_c_may.md)
 * 08-Feb-1996 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) by [John Perry Barlow](people/john_perry_barlow.md)
 * 04-Apr-1997 - [Assassination Politics](http://cryptome.org/ap.htm) by [Jim Bell](people/jim_bell.md)
+* mid-2010s paralelnipolis.cz - [Paralelni Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
 
 ## Technical Sources
 
@@ -130,7 +131,9 @@ These seem like appropriate first items to include:
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
+* 28-Oct-2016 Bitcoincore.org - [Segregated Witness Costs and Risks](https://bitcoincore.org/en/2016/10/28/segwit-costs/)
 * 13-Apr-2017 The Merkle - [What is a BIP](https://themerkle.com/what-is-a-bip/)
+* 10-Jul-2017 HackerNoon.com - [Ethereum: Turing-Completeness and Rich Statefulness Explained](https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb) by Kyle Wang
 
 ## Key Concepts
 
@@ -139,16 +142,22 @@ These seem like appropriate first items to include:
 ## Historical Sources & Media Articles
 
 * 01-Feb-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
+* 01-Oct-1996 Wired Magazine - [The Future of Money](https://www.wired.com/1996/10/wriston/) by Thomas A. Bass
+* 17-Feb-1997 Wired Magazine - [Homeless Cypherpunks Turn to Usenet](https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/)
+* 17-May-1999 Wired Magazine - [The First True Cypherpunk Novel](https://www.wired.com/1999/05/the-first-true-cypherpunk-novel/) by Declan McCullagh
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
+* 28-Dec-2014 Oleg Andreev's Blog - [Real crypto-anarchy](http://blog.oleganza.com/post/71410377996/real-crypto-anarchy)
 * 30-Mar-2015 Wired Magazine - [DEA Agent Charged With Acting as a Paid Mole for Silk Road](https://www.wired.com/2015/03/dea-agent-charged-acting-paid-mole-silk-road/) by Andy Greenberg
 * April 2015 Wired Magazine - [The Untold Story of Silk Road, Part 1 - The Rise of Silk Road](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
 * May 2015 Wired Magazine - [The Untold Story of Silk Road, Part 2 - The Fall](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
 * 25-Sep-2015 The Intercept - [From Radio to Porn, British Spies Track Web Users’ Online Identities](https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/)
 * 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _(article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md))_
+* 18-Jun-2016 Wired Magazine - [A $50 Million Hack Just Showed That the DAO Was All Too Human](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/) by Klint Finley
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
+* 04-June-2014 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett
 
 ## Successor Online Communities
 
