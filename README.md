@@ -17,6 +17,18 @@ The reason I'm putting this archive on github is to make it easier for others to
 
 [![@_tombusby on Twitter](images/_tombusby_twitter.png)](https://twitter.com/_tombusby)
 
+## CURENT (FULLY OR PARTIALLY) COMPLETE SECTIONS
+
+Almost all the pages currently are placeholders. The following people/events have content:
+
+People:
+
+[Julian Assange](people/julian_assange.md), [Adam Back](people/adam_back.md), [Jim Bell](people/jim_bell.md), [Bram Cohen](people/bram_cohen.md), [Vitalik Buterin](people/vitalik_buterin.md), [Hal Finney](people/hal_finney.md), [Timothy C. May](people/timothy_c_may.md), [Satoshi Nakamoto](people/satoshi_nakamoto.md), [John Perry Barlow](people/john_perry_barlow.md), [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md), [Phil Zimmerman](people/phil_zimmerman.md), [Paul Calder Le Roux](people/paul_calder_le_roux.md), [Peter Todd](people/peter_todd.md), [Cody Wilson](people/cody_wilson.md)
+
+Events:
+
+[Crypto Wars, Phil Zimmerman and PGP](events/90s_crypto_wars.md), [The Rise and Fall of the Silk Road](events/the_silk_road.md)
+
 ## The Cypherpunk Mailing List Archives and FAQ
 
 These seem like appropriate first items to include:
@@ -156,3 +168,4 @@ These seem like appropriate first items to include:
 ## Other Resource Lists:
 
 * [Jameson Lopp's Bitcoin Resource List](http://lopp.net/bitcoin.html)
+* [The Satoshi Nakamoto Institute](http://nakamotoinstitute.org/)
