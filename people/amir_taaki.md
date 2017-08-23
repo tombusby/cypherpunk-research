@@ -102,4 +102,4 @@ From wikipedia:
 * 09-Apr-2017 The Crypto Show - [Amir Taaki](https://www.youtube.com/watch?v=SK93JEjWPV8)
 * 02-May-2017 Sputnik News - [The Only Anarchist Revolution in History](https://sputniknews.com/radio_double_down/201705021053187780-the-only-anarchist-revolution-in-history/)
 * 02-May-2017 The Tatiana Show - [The Tatiana Show - Amir Taaki & Lyn Ulbricht of FreeRoss.org](https://www.youtube.com/watch?v=pin6DhQee48)
-* 01-Jun-2016 Crypto Insider - [Amir Taaki: Darknet Markets Made Bitcoin Popular, Not Coffee Purchases](https://cryptoinsider.com/amir-taaki-darknet-markets-made-bitcoin-popular-not-coffee-purchases/) by Kyle Torpey
+* 01-Jun-2017 Crypto Insider - [Amir Taaki: Darknet Markets Made Bitcoin Popular, Not Coffee Purchases](https://cryptoinsider.com/amir-taaki-darknet-markets-made-bitcoin-popular-not-coffee-purchases/) by Kyle Torpey
