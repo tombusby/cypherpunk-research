@@ -130,9 +130,13 @@ These seems like appropriate first items to include:
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/) by "Wired Staff"
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
+* 30-Mar-2015 Wired Magazine - [DEA Agent Charged With Acting as a Paid Mole for Silk Road](https://www.wired.com/2015/03/dea-agent-charged-acting-paid-mole-silk-road/) by Andy Greenberg
+* April 2015 Wired Magazine - [The Untold Story of Silk Road, Part 1 - The Rise of Silk Road](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
+* May 2015 Wired Magazine - [The Untold Story of Silk Road, Part 2 - The Fall](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
 * 25-Sep-2015 The Intercept - [From Radio to Porn, British Spies Track Web Users’ Online Identities](https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/)
-* 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff (Article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md))
+* 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _(article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md))_
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
+* 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
 
 ## Successor Online Communities
 
