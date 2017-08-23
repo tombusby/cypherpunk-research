@@ -84,6 +84,7 @@ From wikipedia:
 * 25-Feb-2014 freeconcordtv on Youtube - [Copyright is Theft: Cody Wilson on IP Issues of 3D Printed Firearms](https://www.youtube.com/watch?v=jvFHXjUdE60)
 * 25-Feb-2014 WeAreChange on Youtube - [Cody Wilson on Creating the 3d Printed Gun](https://www.youtube.com/watch?v=TRIDJyN9qZk)
 * 26-Feb-2014 CBSLocal Denver - [3-D Printing Technology Can Make Undetectable Guns](http://denver.cbslocal.com/2014/02/26/3-d-printing-technology-can-make-undetectable-guns/)
+* 27-Feb-2014 FreeStateProjectNH on Youtube - [Cody Wilson - Liberator @NHLF14](https://www.youtube.com/watch?v=SyAf-IoOBV8)
 * 12-Mar-2014 BBC New HardTalk - [Cody Wilson on HardTalk](https://www.youtube.com/watch?v=CGjpdjz-mk0)
 * 11-Apr-2014 OxfordUnion on Youtube - [Why I printed a gun | Cody Wilson](https://www.youtube.com/watch?v=3rI7xODbdsk)
 * 15-Apr-2014 BraveTheWorld on Youtube - [I AM ANARCHY - Cody Wilson](https://www.youtube.com/watch?v=TE5C-lWvdmU)
