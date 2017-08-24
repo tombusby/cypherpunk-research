@@ -179,3 +179,4 @@ These seem like appropriate first items to include:
 
 * [Jameson Lopp's Bitcoin Resource List](http://lopp.net/bitcoin.html)
 * [The Satoshi Nakamoto Institute](http://nakamotoinstitute.org/)
+* [decrypto-org/blockchain-papers on GitHub](https://github.com/decrypto-org/blockchain-papers)
