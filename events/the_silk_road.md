@@ -4,7 +4,9 @@
 From wikipedia:
 
 > Silk Road was an online black market and the first modern darknet market, best known as a platform for selling illegal drugs. As part of the dark web, it was operated as a Tor hidden service, such that online users were able to browse it anonymously and securely without potential traffic monitoring. The website was launched in February 2011; development had begun six months prior. Initially there were a limited number of new seller accounts available; new sellers had to purchase an account in an auction. Later, a fixed fee was charged for each new seller account.
+
 > In October 2013, the Federal Bureau of Investigation (FBI) shut down the website and arrested Ross William Ulbricht under charges of being the site's pseudonymous founder "Dread Pirate Roberts". On 6 November 2013, Silk Road 2.0 came online, run by former administrators of Silk Road. It too was shut down, and the alleged operator was arrested on 6 November 2014 as part of the so-called "Operation Onymous”.
+
 > Ulbricht was convicted of eight charges related to Silk Road in U.S. Federal Court in Manhattan and was sentenced to life in prison without possibility of parole
 
 ## Links

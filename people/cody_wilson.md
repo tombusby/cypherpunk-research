@@ -4,6 +4,7 @@
 From wikipedia:
 
 > Cody Rutledge Wilson (born January 31, 1988) is an American crypto-anarchist, free-market anarchist, and gun-rights activist, best known as a founder/director of Defense Distributed, a non-profit organization that develops and publishes open source gun designs, so-called "wiki weapons", suitable for 3D printing. He is a co-founder of the Dark Wallet bitcoin storage technology.
+
 > Defense Distributed gained international notoriety in 2013 when it published plans online for the Liberator, a functioning pistol that could be reproduced with a 3D printer. Wilson is regarded as one of America's most influential gun rights advocates, and Wired Magazine's "Danger Room" named him one of "The 15 Most Dangerous People in the World" in 2012. In 2015, Wired named Wilson the fifth most dangerous person on the Internet.
 
 ## Links

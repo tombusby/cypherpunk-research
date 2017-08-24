@@ -6,8 +6,9 @@ Wei Dai is the inventor of b-money, a very important bitcoin-predecessor. This i
 From the Bitcoin Wiki:
 
 > Wei Dai (戴维 in Pinyin). is a computer engineer and cypherpunk best known as creator of b-money and the developer of the Crypto++ library. Dai is listed as inventor on U.S. patents 5724279 and 6081598 which were assigned to Microsoft.
+
 > Mr. Dai graduated from the University of Washington with a degree in computer science and is described as an "intensely private computer engineer". His profile as a member of the advisory board for the (now defunct) VoteHere.net indicated:
-> "Mr. Dai worked in the Cryptography Research Group at Microsoft Corporation in Redmond, Washington. While at Microsoft, he was involved in the study, design and implementation of cryptosystems for specialized applications. Prior to joining Microsoft, Mr. Dai was a programmer with TerraSciences of Acton, Massachusetts. Mr. Dai holds a Bachelor of Science degree from the University of Washington in computer science, with a minor in mathematics."
+> > "Mr. Dai worked in the Cryptography Research Group at Microsoft Corporation in Redmond, Washington. While at Microsoft, he was involved in the study, design and implementation of cryptosystems for specialized applications. Prior to joining Microsoft, Mr. Dai was a programmer with TerraSciences of Acton, Massachusetts. Mr. Dai holds a Bachelor of Science degree from the University of Washington in computer science, with a minor in mathematics."
 
 ## Quotes about Crypto-Anarchy
 

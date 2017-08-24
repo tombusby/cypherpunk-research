@@ -4,6 +4,7 @@
 From wikipedia:
 
 > Paul Calder Le Roux (born December 24, 1972 in Bulawayo, Rhodesia, now Zimbabwe) is a former programmer, former criminal cartel boss and informant to the US Drug Enforcement Administration (DEA).
+
 > He created E4M, an open-source free Windows disk encryption software program, in 1999, and is a suspected creator of the open-source TrueCrypt, which is based on E4M's code. Le Roux is currently in US custody for ordering the assassinations of six people.
 
 ## Links
