@@ -155,6 +155,7 @@ These seem like appropriate first items to include:
 
 ## Successor Online Communities
 
+* [crypto-optimization Mailing List](https://groups.google.com/forum/#!forum/crypto-optimization)
 * [bitcointalk Forum](https://bitcointalk.org/)
 * [/r/bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/) - Generally pro SegWit/Small-blocks
 * [/r/btc Subreddit](https://www.reddit.com/r/btc/) - Generally pro BU/Bitcoin Cash/Big-blocks

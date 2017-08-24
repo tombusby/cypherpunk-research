@@ -9,6 +9,8 @@ From wikipedia:
 
 ## Links
 
+_TODO: Go through list of publications on Chaum's site and link the available ones_
+
 * [David Chaum on Wikipedia](https://en.wikipedia.org/wiki/David_Chaum)
 * [List of Publications on Chaum's Personal Website](http://www.chaum.com/publications/publications.html#swi)
 * 1981-Present - [List of Research Papers by David Chaum](http://dblp.uni-trier.de/pers/hd/c/Chaum:David) - _Unfortunately most, if not all, require payment to access. Googling the title + "pdf" may yield a link but it's not guaranteed_
