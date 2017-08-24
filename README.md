@@ -158,7 +158,7 @@ These seem like appropriate first items to include:
 * [crypto-optimization Mailing List](https://groups.google.com/forum/#!forum/crypto-optimization)
 * [bitcointalk Forum](https://bitcointalk.org/)
 * [/r/bitcoin Subreddit](https://www.reddit.com/r/Bitcoin/) - Generally pro SegWit/Small-blocks
-* [/r/btc Subreddit](https://www.reddit.com/r/btc/) - Generally pro BU/Bitcoin Cash/Big-blocks
+* [/r/btc Subreddit](https://www.reddit.com/r/btc/) - Generally pro BU/Bitcoin-Cash/Big-blocks
 * [Bitcoin Core Slack](https://bitcoincore.slack.com)
 * [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 * [/r/ethereum Subreddit](https://www.reddit.com/r/ethereum/)
