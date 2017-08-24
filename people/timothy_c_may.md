@@ -5,6 +5,10 @@ As an Intel engineer, he solved the "alpha particle problem" which affected the 
 
 He's discussed here as a founding member of the Cypherpunk Mailing list. As the author of the Crypto Anarchist Manifesto and the Cyphernomicon (the mailing list FAQ), he is one of the key figures who really distilled the core philosophy of the list.
 
+From wikipedia:
+
+> Timothy C. May, better known as Tim May, is an American technical and political writer, and was an electronic engineer and senior scientist at Intel in the company's early history. He retired in 2003.
+
 ## Quotes
 
 ### From the Crypto-Anarchist Manifesto
