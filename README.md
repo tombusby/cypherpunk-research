@@ -124,6 +124,7 @@ These seem like appropriate first items to include:
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
+* 07-Dec-2015 bitcoin-dev Mailing List - [Capacity increases for the Bitcoin system - (Core's Roadmap)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html)
 * 28-Oct-2016 Bitcoincore.org - [Segregated Witness Costs and Risks](https://bitcoincore.org/en/2016/10/28/segwit-costs/)
 * 13-Apr-2017 The Merkle - [What is a BIP](https://themerkle.com/what-is-a-bip/)
 * 10-Jul-2017 HackerNoon.com - [Ethereum: Turing-Completeness and Rich Statefulness Explained](https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb) by Kyle Wang
