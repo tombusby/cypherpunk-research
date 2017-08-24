@@ -74,7 +74,6 @@ https://www.wired.com/2014/11/micronations/
 https://www.wired.com/2015/09/tricky-encryption-stump-quantum-computers/
 https://www.wired.com/2015/10/how-to-delete-facebook-twitter-instagram-social-accounts/
 https://www.wired.com/2015/11/coinbase-is-bringing-back-the-webs-long-lost-payment-code/
-https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/
 https://www.wired.com/2016/03/why-are-we-fighting-the-crypto-wars-again/?gi=5aa7b706fd64
 https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/?gi=5753423884f8
 https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/
