@@ -158,6 +158,7 @@ These seem like appropriate first items to include:
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
 * 04-June-2014 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett
+* 24-Aug-2017 Bitcoin Blockchain - [The First SegWit transaction on Bitcoin](http://srv1.yogh.io/#tx:id:8F907925D2EBE48765103E6845C06F1F2BB77C6ADC1CC002865865EB5CFD5C1C)
 
 ## Successor Online Communities
 
