@@ -8,7 +8,6 @@ From wikipedia:
 ## Quotes about Assassination Markets
 
 > If they continue to work for the government, they deserve it. My suggestion to these people is to quit now and hope for mercy.
-
 > I once believed it's too bad that there are a lot of people who work for government who are hard-working and honest people who will get hit (by Assassination Politics) and it's a shame, Well, I don't believe that any more. They are all either crooks or they tolerate crooks or they are aware of crooks among their numbers.
 
 ## Links

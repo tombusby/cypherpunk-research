@@ -4,23 +4,14 @@
 From wikipedia:
 
 > Amir Taaki (born 6 February 1988) is a British-Iranian revolutionary, hacker, and programmer who is known for his leading role in the bitcoin project, and for pioneering many open source projects. Forbes listed Taaki in their top 30 entrepreneurs of 2014. Taaki driven by the political philosophy of the Rojava revolution, travelled to Syria serving in the YPG military, and worked in Rojava's civil society on various economic projects for a year and a half.
-
 > Amir Taaki was born 6 February 1988 in London, the eldest of three children of a Scottish-English mother and an Iranian father who is a property developer. From an early age Taaki took an interest in computer technology, teaching himself computer programming.
-
 > In 2009 and 2010, Taaki made his living as a professional poker player. His experience with online gambling attracted him to the bitcoin project. He founded a UK bitcoin exchange called "Britcoin", which was succeeded in 2011 by a new British exchange called Intersango, in which he was a principal developer, which was closed after their UK bank account was restricted following an investigation by Metro Bank.
-
 > In April 2011, Taaki and Donald Norman established the Bitcoin Consultancy, a group focused on bitcoin project development.
-
 > Taaki created the first full reimplementation of the bitcoin protocol named libbitcoin, worked on the bitcoin client Electrum and created other command line utilities around bitcoin and the network. The bitcoin standardisation procedure (Bitcoin Improvement Proposals or BIPs) was started by Taaki.
-
 > In 2014, together with Cody Wilson, he launched the Dark Wallet project after a crowdfunding run on IndieGoGo which raised over $50,000. Taaki, along with other developers from Airbitz, Inc. (producers of a bitcoin business directory and mobile bitcoin wallet) created a prototype for a decentralised marketplace called "DarkMarket" in 2014, at a hackathon in Toronto, which was forked into the OpenBazaar project.
-
 > Taaki has been outspoken in favour of Internet activism such as Anonymous, likening them to modern day freedom-fighters. A long-time contributor to free software, he advocates total data freedom. Taaki has labelled censorship policies as being a wedge towards ever-increasing censorship. He proposes a shift away from specialist thinking towards a creative society of generalist knowledge workers.
-
 > Taaki is a speaker of Esperanto, which he promotes as an auxiliary country-neutral international language to preserve local languages. He writes that Esperanto serves to break down barriers and help the flow of media across cultural boundaries.
-
 > Amir Taaki formerly lived in an anarchist squat in Barcelona, Spain. He now resides in an anarchist squat in the former anti-G8 HQ building in London, England.
-
 > In 2015, Taaki went to Rojava (Syrian Kurdistan) to offer his skills to the revolution, and served the YPG military. He had no training, but spent three and a half months in the YPG military fighting on the front. He was then discharged and worked in the civil society for over a year on various projects for Rojava's economics committee.
 
 ## Links

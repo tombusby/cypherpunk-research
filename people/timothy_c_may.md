@@ -8,17 +8,13 @@ He's discussed here as a founding member of the Cypherpunk Mailing list. As the 
 From wikipedia:
 
 > Timothy C. May, better known as Tim May, is an American technical and political writer, and was an electronic engineer and senior scientist at Intel in the company's early history. He retired in 2003.
-
 > May was a founding member of, and has been one of the most voluminous contributors to, Cypherpunks electronic mailing list. He wrote extensively on cryptography and privacy from the 1990s through 2003.
-
 > May wrote a substantial cypherpunk-themed FAQ, "The Cyphernomicon" (incorporating his earlier piece "The Crypto Anarchist Manifesto"), and his essay "True Nyms and Crypto Anarchy" was included in a reprint of Vernor Vinge's novel True Names. In 2001 his work was published in the book Crypto Anarchy, Cyberstates, and Pirate Utopias.
 
 ## Quotes
 
 ### From the Crypto-Anarchist Manifesto
-
 > A specter is haunting the modern world, the specter of crypto anarchy.
-
 > Arise, you have nothing to lose but your barbed wire fences!
 
 ### His email signature

@@ -4,7 +4,6 @@
 From wikipedia:
 
 > Ross William Ulbricht (born March 27, 1984) is a former darknet market operator, best known for being convicted of creating and running the Silk Road website until his arrest. He was known under the pseudonym "Dread Pirate Roberts".
-
 > Ulbricht was convicted of money laundering, computer hacking, conspiracy to traffic fraudulent identity documents, and conspiracy to traffic narcotics in February 2015. He is currently serving a life sentence without the possibility of parole. The U.S. Court of Appeals for the Second Circuit upheld the conviction and sentence in 2017.
 
 ## Links
