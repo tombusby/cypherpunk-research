@@ -1,6 +1,8 @@
 
 # Satoshi Nakamoto
 
+From Wikipedia:
+
 > Satoshi Nakamoto is the name used by the unknown person(s) who designed bitcoin and created its original reference implementation. As part of the implementation, they also devised the first blockchain database. In the process they were the first to solve the double spending problem for digital currency. They were active in the development of bitcoin up until December 2010.
 
 > Nakamoto has claimed to be a man living in Japan, born on 5 April 1975. However, speculation about the true identity of Nakamoto has mostly focused on a number of cryptography and computer science experts of non-Japanese descent, living in the United States and Europe.
