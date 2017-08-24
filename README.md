@@ -115,12 +115,12 @@ These seem like appropriate first items to include:
 ## Technical Sources
 
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
-* 1981 Research Paper - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf) by David Chaum
-* 1982 Research Paper - [Blind Signatures for Untraceable Payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF) by David Chaum
+* 1981 Research Paper - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf) by [David Chaum](people/david_chaum.md)
+* 1982 Research Paper - [Blind Signatures for Untraceable Payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF) by [David Chaum](people/david_chaum.md)
 * Aug-1984 Communication of the ACM, Vol. 27, No. 8 - [Reflections on Trusting Trust](http://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) by Ken Thompson (co-creator of Unix)
-* 1988 Research Paper - [The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability](https://www.cise.ufl.edu/~nemo/anonymity/papers/chaum-dc.pdf) by David Chaum
-* 1989 Rssearch Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by David Chaum
-* 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by David Chaum
+* 1988 Research Paper - [The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability](https://www.cise.ufl.edu/~nemo/anonymity/papers/chaum-dc.pdf) by [David Chaum](people/david_chaum.md)
+* 1989 Rssearch Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by [David Chaum](people/david_chaum.md)
+* 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by [David Chaum](people/david_chaum.md)
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
