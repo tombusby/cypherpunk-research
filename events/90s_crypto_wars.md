@@ -17,4 +17,5 @@ Since Public Key encryption was considered a munition, t-shirts like this (conta
 * [Phil Zimmerman on Wikipedia](https://en.wikipedia.org/wiki/Phil_Zimmermann)
 * [Pretty Good Privacy (PGP) on Wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 * 01-Jan-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
+* 12-Jun-1994 The New York Times - [Battle of the Clipper Chip](http://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html?pagewanted=all) by Stephen Levy
 * [Crypto Wars on Wikipedia](https://en.wikipedia.org/wiki/Crypto_Wars)

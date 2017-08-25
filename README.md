@@ -65,7 +65,7 @@ These seem like appropriate first items to include:
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
 * [Mark Karpeles](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
 * [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of Craig Wright
-* [Moxie Marlinspike (pseudonym)](people/moxie_arlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
+* [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
 * [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
 * [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
 * [Jonas Schnelli](people/jonas_schnelli.md) - Bitcoin Core developer, Holds the number 6 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
@@ -115,6 +115,8 @@ These seem like appropriate first items to include:
 ## Technical Sources
 
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
+* [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+* Nov 1976 IEEE Transactions on Information Theory, VOL. IT-22, NO. 6 - [New Directions in Cryptography (This paper describes Diffie-Hellman key exchange)](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman
 * 1981 Research Paper - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf) by [David Chaum](people/david_chaum.md)
 * 1982 Research Paper - [Blind Signatures for Untraceable Payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF) by [David Chaum](people/david_chaum.md)
 * Aug-1984 Communication of the ACM, Vol. 27, No. 8 - [Reflections on Trusting Trust](http://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) by Ken Thompson (co-creator of Unix)
@@ -136,6 +138,8 @@ These seem like appropriate first items to include:
 ## Historical Sources & Media Articles
 
 * 01-Feb-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy
+* 12-Jun-1994 The New York Times - [Battle of the Clipper Chip](http://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html?pagewanted=all) by Stephen Levy
+* 01-Nov-1994 Wired Magazine - [Prophet of Privacy](https://www.wired.com/1994/11/diffie/)
 * 01-Oct-1996 Wired Magazine - [The Future of Money](https://www.wired.com/1996/10/wriston/) by Thomas A. Bass
 * 17-Feb-1997 Wired Magazine - [Homeless Cypherpunks Turn to Usenet](https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/)
 * 17-May-1999 Wired Magazine - [The First True Cypherpunk Novel](https://www.wired.com/1999/05/the-first-true-cypherpunk-novel/) by Declan McCullagh

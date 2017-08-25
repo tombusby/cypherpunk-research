@@ -17,7 +17,7 @@ From the Bitcoin Wiki:
 
 > I am fascinated by Tim May’s crypto-anarchy. Unlike the communities traditionally associated with the word “anarchy”, in a crypto-anarchy the government is not temporarily destroyed but permanently forbidden and permanently unnecessary. It’s a community where the threat of violence is impotent because violence is impossible, and violence is impossible because its participants cannot be linked to their true names or physical locations.
 
-### Regarding Speculation That He Is Satoshi Nakamoto
+### Regarding Speculation That He is Satoshi Nakamoto
 
 > Hi Clippy, what made you think that I might be able to? If you read the Wikipedia article, you should know that I didn't create Bitcoin but only described a similar idea more than a decade ago. And my understanding is that the creator of Bitcoin, who goes by the name Satoshi Nakamoto, didn't even read my article before reinventing the idea himself. He learned about it afterward and credited me in his paper. So my connection with the project is quite limited.
 
