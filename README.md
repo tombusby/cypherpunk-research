@@ -124,7 +124,7 @@ These seem like appropriate first items to include:
 * 1982 Research Paper - [Blind Signatures for Untraceable Payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF) by [David Chaum](people/david_chaum.md)
 * Aug-1984 Communication of the ACM, Vol. 27, No. 8 - [Reflections on Trusting Trust](http://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) by Ken Thompson (co-creator of Unix)
 * 1988 Research Paper - [The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability](https://www.cise.ufl.edu/~nemo/anonymity/papers/chaum-dc.pdf) by [David Chaum](people/david_chaum.md)
-* 1989 Rssearch Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by [David Chaum](people/david_chaum.md)
+* 1989 Research Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by [David Chaum](people/david_chaum.md)
 * 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by [David Chaum](people/david_chaum.md)
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
