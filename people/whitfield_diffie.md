@@ -14,9 +14,13 @@ From wikipedia:
 ## Links
 
 * [Whitfield Diffie on Wikipedia](https://en.wikipedia.org/wiki/Whitfield_Diffie)
+* [@WhitfieldDiffie on Twitter (Account is inactive, I can't confirm that it's him)](https://twitter.com/whitfielddiffie)
+* [Stanford University Profile Page for Whitfield Diffie](http://cisac.fsi.stanford.edu/people/whitfield_diffie)
+* [Computer History Museum - Fellow Awards Profile Page for Whitfield Diffie](http://www.computerhistory.org/fellowawards/hall/whitfield-diffie/)
 * Nov 1976 IEEE Transactions on Information Theory, VOL. IT-22, NO. 6 - [New Directions in Cryptography (Describes Diffie-Hellman Key Exchange)](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman
 * 12-Jun-1994 The New York Times - [Battle of the Clipper Chip](http://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html?pagewanted=all) by Stephen Levy
 * 01-Nov-1994 Wired Magazine - [Prophet of Privacy](https://www.wired.com/1994/11/diffie/)
+* 2001 [Crypto: How the Code Rebels Beat the Government—Saving Privacy in the Digital Age - Chapter 1](http://www.nytimes.com/books/first/l/levy-crypto.html) by Stephen Levy
 * 28-Dec-2007 Computer History Museum on Youtube - [Information Security—Before & After Public-Key Cryptography](https://www.youtube.com/watch?v=1BJuuUxCaaY)
 * 10-Feb-2009 Michael Teixeira on Youtube - [Whitfield Diffie Lecture (probably at Stanford)](https://www.youtube.com/watch?v=xPDRD4GdapA)
 * 01-Nov-2010 RSA Conference on Youtube - [Whitfield Diffie on Protecting the Individual](https://www.youtube.com/watch?v=nq01BN-TxdE)
@@ -42,4 +46,5 @@ From wikipedia:
 * 09-Mar-2016 CRYPTOMAThIC on Youtube - [Barclays Crypto Service Gateway Event - Whitfield Diffie](https://www.youtube.com/watch?v=UCN67MvO-Sg)
 * 04-Apr-2016 Sentient Technologies on Youtube - [Whitfield Diffie Remembers Marvin Minsky](https://www.youtube.com/watch?v=HxrMZERqd_Y)
 * 05-May-2016 standfordmedia on Youtube - [Stanford Seminar - Cryptology and Security: the view from 2016](https://www.youtube.com/watch?v=FXWsmHoFs6Y)
+* 02-May-2016 RSA Conference on Youtube - [The Cryptographers' Panel 2016 - Ron Rivest, Adi Shamir, Whitfield Diffie, Moxie Marlinspike, Martin Hellman](https://www.youtube.com/watch?v=k76qLOrna1w)
 * 20-Jun-2016 Association for Computing Machinery (ACM) on Youtube - [ACM A.M. Turing Award - Whitfield Diffie and Martin E. Hellman](https://www.youtube.com/watch?v=w3JcMetfl00)

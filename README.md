@@ -39,6 +39,7 @@ These seem like appropriate first items to include:
 * [David D. Friedman](people/david_d_friedman.md) - Son of Milton, Anarcho-Capitalist theorist, "Crypto-Anarchy" draws a lot from his work
 * [John Gilmore](people/john_gilmore.md) - Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation
 * [Ian Grigg](people/ian_grigg.md) - 90s Cypherpunk, Inventor of Ricardian Contracts
+* [Vinay Gupta](people/vinay_gupta.md) - 90s Cypherpunk, Inventor of the Hexayurt, Resilience Guru, Involved with Ethereum
 * [Martin Hellman](people/martin_hellman.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Whitfield Diffie](people/whitfield_diffie.md)
 * [Eric Hughes](people/eric_hughes.md) - Founding member of the Cypherpunk Mailing List,
 * [Timothy C. May](people/timothy_c_may.md) - Founding member of Cypherpunk Mailing List, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
@@ -117,6 +118,8 @@ These seem like appropriate first items to include:
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
 * [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 * Nov 1976 IEEE Transactions on Information Theory, VOL. IT-22, NO. 6 - [New Directions in Cryptography (This paper describes Diffie-Hellman key exchange)](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman
+* Apr 1978 - [Protocols for Public Key Cryptosystems](http://www.merkle.com/papers/Protocols.pdf)
+* Apr 1978 - [Secure Communications over Insecure Channels](http://www.merkle.com/1974/Puzzles1975.12.07.pdf)
 * 1981 Research Paper - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf) by [David Chaum](people/david_chaum.md)
 * 1982 Research Paper - [Blind Signatures for Untraceable Payments](http://sceweb.sce.uhcl.edu/yang/teaching/csci5234WebSecurityFall2011/Chaum-blind-signatures.PDF) by [David Chaum](people/david_chaum.md)
 * Aug-1984 Communication of the ACM, Vol. 27, No. 8 - [Reflections on Trusting Trust](http://www.win.tue.nl/~aeb/linux/hh/thompson/trust.html) by Ken Thompson (co-creator of Unix)
@@ -153,6 +156,7 @@ These seem like appropriate first items to include:
 * 25-Sep-2015 The Intercept - [From Radio to Porn, British Spies Track Web Users’ Online Identities](https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/)
 * 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _(article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md))_
 * 18-Jun-2016 Wired Magazine - [A $50 Million Hack Just Showed That the DAO Was All Too Human](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/) by Klint Finley
+* 31-Jul-2016 Wired Magazine - [Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us](https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/) by Andy Greenberg
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
 * 04-June-2014 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett

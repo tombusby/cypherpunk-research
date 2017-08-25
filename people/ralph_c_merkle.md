@@ -12,4 +12,7 @@ From wikipedia:
 ## Links
 
 * [Ralph C. Merkle on Wikipedia](https://en.wikipedia.org/wiki/Ralph_Merkle)
+* Apr 1978 - [Protocols for Public Key Cryptosystems](http://www.merkle.com/papers/Protocols.pdf)
+* Apr 1978 - [Secure Communications over Insecure Channels](http://www.merkle.com/1974/Puzzles1975.12.07.pdf)
 * 27-Oct-2013 Gideon Samid on Youtube - [Ralph Merkle: Privacy Between Strangers](https://www.youtube.com/watch?v=jKpkM7Zeb6U)
+* 25-Jul-2016 Epicenter Bitcoin on Youtube - [EB141 – Ralph Merkle: Revolutionizing Democracy Using DAOs](https://www.youtube.com/watch?v=dvzpvXLbpv4)
