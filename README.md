@@ -53,7 +53,7 @@ These seem like appropriate first items to include:
 
 ## Notable People (A-Z)
 
-* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after his departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
 * [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Andrew Auernheimer (weev)](people/weev.md) - White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
