@@ -57,7 +57,7 @@ From wikipedia:
 * 29-Mar-2013 carbonpenguin on Youtube - [Cody Wilson Blows Glenn Beck's Mind, Tells Him to Read Foucault](https://www.youtube.com/watch?v=HK6-kbdHE2A)
 * 05-Apr-2013 Defense Distributed on Youtube - [Defense Distributed - The Feinstein Mag](https://www.youtube.com/watch?v=0tVwhmfV1bU)
 * 09-Apr-2013 CNBC Prime on Youtube - [Print Your AR-15 at Home America's Gun: The #RiseOfAR15 | CNBC | 4/25](https://www.youtube.com/watch?v=NX3bMvYkGRc)
-* 09-Apr-2013 Vice.com - [The VICE Podcast - Cody Wilson on 3D-Printed Guns](https://www.vice.com/en_us/article/gqw7k3/cody-wilson-on-3d-printed-guns-vice-podcast-001) by Eddy Moretti _([youtube link](https://www.youtube.com/watch?v=aTYWGrfo-ao&list=LLl-p2gLlVGEwmnPYTI2u-gQ&index=210))_
+* 09-Apr-2013 Vice.com - [The VICE Podcast - Cody Wilson on 3D-Printed Guns](https://www.vice.com/en_us/article/gqw7k3/cody-wilson-on-3d-printed-guns-vice-podcast-001) by Eddy Moretti _([youtube link](https://www.youtube.com/watch?v=aTYWGrfo-ao))_
 * 11-Apr-2013 Defense Distributed on Youtube - [KOBRA - Cody Wilson on Defense Distributed (News Report in Swedish)](https://www.youtube.com/watch?v=kmZAaxYwhOo)
 * 24-Apr-2013 Mashable - [3D-Printed Weapons Builder Says He's Ready to Print Entire Handgun](http://mashable.com/2013/04/24/3d-printed-handgun/#i2kkmXAKYgqt) by Lorenzo Franceschi-Bicchierai
 * 05-May-2013 Defense Distributed on Youtube - [Liberator - Dawn of the Wiki Weapons](https://www.youtube.com/watch?v=drPz6n6UXQY)
