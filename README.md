@@ -33,6 +33,7 @@ These seem like appropriate first items to include:
 * [Vitalik Buterin](people/vitalik_buterin.md) - Creator of Ethereum
 * [David Chaum](people/david_chaum.md) - Cryptographer and ideological forefather of the Cypherpunk movement
 * [Bram Cohen](people/bram_cohen.md) - Twitter bio: "Creator of BitTorrent. Now doing cryptocurrency stuff"
+* [Clifford Cocks](people/clifford_cocks.md) - British Intelligence Cryptographer, Invented Public Key Cryptography but his work was kept classified until 1997, By definition not a cypherpunk (since he worked in secrecy for intelligence agencies) - but deserving of credit as the field's true founder
 * [Wei Dai](people/wei_dai.md) - 90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money
 * [Whitfield Diffie](people/whitfield_diffie.md) - Cryptographer, Co-creater of Diffie-Hellman Key Exchange with [Martin Hellman](people/martin_hellman.md), Privacy advocate
 * [Hal Finney](people/hal_finney.md) - 90s Cypherpunk, Received first Bitcoin transaction (from [Satoshi](people/satoshi_nakamoto.md)), Strong candidate for [Satoshi](people/satoshi_nakamoto.md)
@@ -57,7 +58,6 @@ These seem like appropriate first items to include:
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
 * [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Andrew Auernheimer (weev)](people/weev.md) - White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
-* [Clifford Cocks](people/clifford_cocks.md) - British Intelligence Cryptographer, Invented Public Key Cryptography but his work was kept classified until 1997
 * [Matt Corallo](people/matt_corallo.md) - Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Paul Calder Le Roux](people/paul_calder_le_roux.md) - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
 * [Rick Falkvinge](people/rick_falkvinge.md) - Founder of the Swedish Pirate Party, Political activist, Bitcoiner
@@ -146,6 +146,7 @@ These seem like appropriate first items to include:
 * 01-Nov-1994 Wired Magazine - [Prophet of Privacy](https://www.wired.com/1994/11/diffie/)
 * 01-Oct-1996 Wired Magazine - [The Future of Money](https://www.wired.com/1996/10/wriston/) by Thomas A. Bass
 * 17-Feb-1997 Wired Magazine - [Homeless Cypherpunks Turn to Usenet](https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/)
+* 01-Apr-1999 Wired Magazine - [The Open Secret](https://www.wired.com/1999/04/crypto/) by Steven Levy
 * 17-May-1999 Wired Magazine - [The First True Cypherpunk Novel](https://www.wired.com/1999/05/the-first-true-cypherpunk-novel/) by Declan McCullagh
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
