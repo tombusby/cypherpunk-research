@@ -31,6 +31,10 @@ From wikipedia:
 
 * [Hal Finney on Wikipedia](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist))
 * [@halfin on Twitter](https://twitter.com/halfin)
+* 19-Aug-1993 Cypherpunk Mailing List (I think) - [Digital Cash & Privacy](http://fennetic.net/irc/finney.org/~hal/dig_cash_priv.html) by Hal Finney
+* 15-Oct-1993 (Rev. 13-Mar-1996) www.finney.org/~hal/ (Web Archive) - [Detecting Double Spending](http://nakamotoinstitute.org/literature/detecting-double-spending/) by Hal Finney
+* 30-Mar-1994 Cypherpunk Mailing List (I think) - [PGP Web of Trust Misconceptions](http://fennetic.net/irc/finney.org/~hal/web_of_trust.html) by Hal Finney
+* 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) _([link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html))_ _([link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW))_ by Hal Finney
 * 06-Dec-2006-12-Nov-2010 LessWrong.org - [HalFinney's Posts on LessWrong.com](http://lesswrong.com/user/HalFinney/overview)
 * 05-Oct-2009 LessWrong.com - [Dying Outside](http://lesswrong.com/lw/1ab/dying_outside/) by Hal Finney
 * 30-Nov-2010-09-Aug-2013 BitcoinTalk.org - [Hal's Posts on BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2436;sa=showPosts)

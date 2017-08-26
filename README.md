@@ -105,7 +105,7 @@ These seem like appropriate first items to include:
 * Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
 
 ## Philosophical/Ideological Sources
-* 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/)
+* 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) (not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
 * Dec 1994 Cypherpunk Mailing List - [Crypto Anarchy and Virtual Communities](http://nakamotoinstitute.org/virtual-communities/) by [Timothy C. May](people/timothy_c_may.md)
@@ -127,6 +127,9 @@ These seem like appropriate first items to include:
 * 1989 Research Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by [David Chaum](people/david_chaum.md)
 * 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by [David Chaum](people/david_chaum.md)
 * 1993 szabo.best.vwh.net (Web Archive) - [Multinational Small Business](http://web.archive.org/web/20160620183937/http://szabo.best.vwh.net/multi_small.html) by Nick Szabo
+* 19-Aug-1993 Cypherpunk Mailing List (I think) - [Digital Cash & Privacy](http://fennetic.net/irc/finney.org/~hal/dig_cash_priv.html) by Hal Finney
+* 15-Oct-1993 (Rev. 13-Mar-1996) www.finney.org/~hal/ (Web Archive) - [Detecting Double Spending](http://nakamotoinstitute.org/literature/detecting-double-spending/) by Hal Finney
+* 30-Mar-1994 Cypherpunk Mailing List (I think) - [PGP Web of Trust Misconceptions](http://fennetic.net/irc/finney.org/~hal/web_of_trust.html) by Hal Finney
 * 1996 szabo.best.vwh.net (Web Archive) - [Negative Reputation](http://web.archive.org/web/20160704085927/http://szabo.best.vwh.net/negative_rep.html) by Nick Szabo
 * 1997 szabo.best.vwh.net (Web Archive) - [Formalizing and Securing Relationships on Public Networks](http://web.archive.org/web/20160920045707/http://szabo.best.vwh.net/formalize.html) by Nick Szabo
 * 1998/1999 szabo.best.vwh.net (Web Archive) - [Secure Property Titles with Owner Authority](https://web.archive.org/web/20020202165211/http://szabo.best.vwh.net/securetitle.html) by Nick Szabo
@@ -141,6 +144,7 @@ These seem like appropriate first items to include:
 * 2002 szabo.best.vwh.net (Web Archive) - [Measuring Value](http://web.archive.org/web/20160919162114/http://szabo.best.vwh.net/measuringvalue.html) by Nick Szabo
 * 2003 szabo.best.vwh.net (Web Archive) - [Advances in Distributed Security](http://web.archive.org/web/20160715035054/http://szabo.best.vwh.net/distributed.html) by Nick Szabo
 * 2004 szabo.best.vwh.net (Web Archive) - [Scarce Objects](http://web.archive.org/web/20160620184010/http://szabo.best.vwh.net/scarce.html) by Nick Szabo
+* 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) _([link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html))_ _([link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW))_ by Hal Finney
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * Dec 2005 Unenumerated (Nick Szabo's Blog) - [Bit gold](http://unenumerated.blogspot.co.uk/2005/12/bit-gold.html)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
@@ -165,6 +169,7 @@ These seem like appropriate first items to include:
 * 01-Apr-1999 Wired Magazine - [The Open Secret](https://www.wired.com/1999/04/crypto/) by Steven Levy
 * 17-May-1999 Wired Magazine - [The First True Cypherpunk Novel](https://www.wired.com/1999/05/the-first-true-cypherpunk-novel/) by Declan McCullagh
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
+* 19-Mar-2013 BitcoinTalk.org - [Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.0) by [Hal Finney](people/hal_finney.md)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
 * 28-Dec-2014 Oleg Andreev's Blog - [Real crypto-anarchy](http://blog.oleganza.com/post/71410377996/real-crypto-anarchy)
