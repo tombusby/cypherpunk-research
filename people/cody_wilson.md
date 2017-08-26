@@ -9,8 +9,6 @@ From wikipedia:
 
 ## Links
 
-*The ammount of meterial for Cody Wislon is insane. He generated a lot of news coverage and gave/gives a lot of interviews. If you know of any other sources I haven't included, please let me know or submit a Pull Request*
-
 * [Cody Wilson on Wikipedia](https://en.wikipedia.org/wiki/Cody_Wilson)
 * [@Radomysisky on Twitter](https://twitter.com/radomysisky)
 * [Defense Distributed defdist.org](https://defdist.org/)
