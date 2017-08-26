@@ -105,7 +105,7 @@ These seem like appropriate first items to include:
 * Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
 
 ## Philosophical/Ideological Sources
-* 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman
+* 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
 * 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) (not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
