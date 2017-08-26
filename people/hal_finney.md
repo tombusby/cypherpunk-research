@@ -31,6 +31,7 @@ Hal Finney died in Phoenix August 28, 2014 and was cryopreserved by the Alcor Li
 
 * [Hal Finney on Wikipedia](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist))
 * [@halfin on Twitter](https://twitter.com/halfin)
-* 06-Dec-2006-12-Nov-2010 - [HalFinney's Posts on LessWrong.com](http://lesswrong.com/user/HalFinney/overview)
+* 06-Dec-2006-12-Nov-2010 LessWrong.org - [HalFinney's Posts on LessWrong.com](http://lesswrong.com/user/HalFinney/overview)
 * 05-Oct-2009 LessWrong.com - [Dying Outside](http://lesswrong.com/lw/1ab/dying_outside/) by Hal Finney
+* 30-Nov-2010-09-Aug-2013 BitcoinTalk.org - [Hal's Posts on BitcoinTalk](https://bitcointalk.org/index.php?action=profile;u=2436;sa=showPosts)
 * 19-Mar-2013 BitcoinTalk.org - [Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.0) by Hal Finney
