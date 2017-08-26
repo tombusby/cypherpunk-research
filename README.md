@@ -105,13 +105,15 @@ These seem like appropriate first items to include:
 * Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
 
 ## Philosophical/Ideological Sources
-* 1973 DavidDFriedman.com - [The Machinery of Freedom PDF](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
+* 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman
 * 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) (not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
 * Dec 1994 Cypherpunk Mailing List - [Crypto Anarchy and Virtual Communities](http://nakamotoinstitute.org/virtual-communities/) by [Timothy C. May](people/timothy_c_may.md)
 * 08-Feb-1996 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) by [John Perry Barlow](people/john_perry_barlow.md)
 * 04-Apr-1997 - [Assassination Politics](http://cryptome.org/ap.htm) by [Jim Bell](people/jim_bell.md)
+* 04-May-2000 DavidDFriedman.com - [Contracts in Cyberspace](http://www.daviddfriedman.com/Academic/contracts_in_%20cyberspace/contracts_in_cyberspace.htm)
+* 2005 DavidDFriedman.com - [From Imperial China to Cyberspace: Contracting Without the State](http://www.daviddfriedman.com/Academic/Course_Pages/analytical_methods_08/china_to_cyberspace.htm)
 * mid-2010s paralelnipolis.cz - [Paralelni Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
 
 ## Technical Sources

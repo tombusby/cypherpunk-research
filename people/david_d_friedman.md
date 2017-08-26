@@ -18,4 +18,6 @@ From wikipedia:
 * [David D. Friedman on Wikipedia](https://en.wikipedia.org/wiki/David_D._Friedman)
 * [David D. Friedman's Blog](http://daviddfriedman.blogspot.com/)
 * [David D. Friedman's Personal Website](http://www.daviddfriedman.com/)
-* 1973 DavidDFriedman.com - [The Machinery of Freedom PDF](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman
+* 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by David D. Friedman
+* 04-May-2000 DavidDFriedman.com - [Contracts in Cyberspace](http://www.daviddfriedman.com/Academic/contracts_in_%20cyberspace/contracts_in_cyberspace.htm)
+* 2005 DavidDFriedman.com - [From Imperial China to Cyberspace: Contracting Without the State](http://www.daviddfriedman.com/Academic/Course_Pages/analytical_methods_08/china_to_cyberspace.htm)
