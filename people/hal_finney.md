@@ -19,7 +19,7 @@ From wikipedia:
 
 > In October 2009, Finney announced in an essay on the blog Less Wrong that he had been diagnosed with Amyotrophic Lateral Sclerosis (ALS) in August 2009. Prior to his illness, Finney had been an active runner. Finney and his wife Fran Finney raised money for ALS research with the Santa Barbara International Marathon.
 
-Hal Finney died in Phoenix August 28, 2014 and was cryopreserved by the Alcor Life Extension Foundation.
+> Hal Finney died in Phoenix August 28, 2014 and was cryopreserved by the Alcor Life Extension Foundation.
 
 ## Quotes from Finney on the Cypherpunk Mailing List
 
