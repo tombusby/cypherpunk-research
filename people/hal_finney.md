@@ -22,12 +22,15 @@ From wikipedia:
 Hal Finney died in Phoenix August 28, 2014 and was cryopreserved by the Alcor Life Extension Foundation.
 
 ## Quotes from Finney on the Cypherpunk Mailing List
- 
+
 > It seemed so obvious to me; Here we are faced with the problems of loss of privacy, creeping computerization, massive databases, more centralization - and Chaum offers a completely different direction to go in, one which puts power into the hands of individuals rather than governments and corporations. The computer can be used as a tool to liberate and protect people, rather than to control them.
 
 — Cypherpunks Mailing List in 1992.
 
-
 ## Links
 
+* [Hal Finney on Wikipedia](https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist))
+* [@halfin on Twitter](https://twitter.com/halfin)
+* 06-Dec-2006-12-Nov-2010 - [HalFinney's Posts on LessWrong.com](http://lesswrong.com/user/HalFinney/overview)
+* 05-Oct-2009 LessWrong.com - [Dying Outside](http://lesswrong.com/lw/1ab/dying_outside/) by Hal Finney
 * 19-Mar-2013 BitcoinTalk.org - Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
