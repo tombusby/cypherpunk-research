@@ -105,6 +105,7 @@ These seem like appropriate first items to include:
 * Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
 
 ## Philosophical/Ideological Sources
+* 1973 DavidDFriedman.com - [The Machinery of Freedom PDF](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
 * 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) (not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
@@ -126,25 +127,25 @@ These seem like appropriate first items to include:
 * 1988 Research Paper - [The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability](https://www.cise.ufl.edu/~nemo/anonymity/papers/chaum-dc.pdf) by [David Chaum](people/david_chaum.md)
 * 1989 Research Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by [David Chaum](people/david_chaum.md)
 * 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by [David Chaum](people/david_chaum.md)
-* 1993 szabo.best.vwh.net (Web Archive) - [Multinational Small Business](http://web.archive.org/web/20160620183937/http://szabo.best.vwh.net/multi_small.html) by Nick Szabo
-* 19-Aug-1993 Cypherpunk Mailing List (I think) - [Digital Cash & Privacy](http://fennetic.net/irc/finney.org/~hal/dig_cash_priv.html) by Hal Finney
-* 15-Oct-1993 (Rev. 13-Mar-1996) www.finney.org/~hal/ (Web Archive) - [Detecting Double Spending](http://nakamotoinstitute.org/literature/detecting-double-spending/) by Hal Finney
-* 30-Mar-1994 Cypherpunk Mailing List (I think) - [PGP Web of Trust Misconceptions](http://fennetic.net/irc/finney.org/~hal/web_of_trust.html) by Hal Finney
-* 1996 szabo.best.vwh.net (Web Archive) - [Negative Reputation](http://web.archive.org/web/20160704085927/http://szabo.best.vwh.net/negative_rep.html) by Nick Szabo
-* 1997 szabo.best.vwh.net (Web Archive) - [Formalizing and Securing Relationships on Public Networks](http://web.archive.org/web/20160920045707/http://szabo.best.vwh.net/formalize.html) by Nick Szabo
-* 1998/1999 szabo.best.vwh.net (Web Archive) - [Secure Property Titles with Owner Authority](https://web.archive.org/web/20020202165211/http://szabo.best.vwh.net/securetitle.html) by Nick Szabo
-* May 1999 szabo.best.vwh.net (Web Archive) - [Micropayments and Mental Transaction Costs](http://web.archive.org/web/20160620183941/http://szabo.best.vwh.net/berlinmentalmicro.pdf) by Nick Szabo
-* 1999 szabo.best.vwh.net (Web Archive) - [Intrapolynomial Cryptography](https://web.archive.org/web/20011217091748/http://szabo.best.vwh.net/intrapoly.html) by Nick Szabo
-* 1999 szabo.best.vwh.net (Web Archive) - [Contracts with Bearer](http://web.archive.org/web/20160620184022/http://szabo.best.vwh.net/bearer_contracts.html) by Nick Szabo
-* 1999 www.theiia.org (Web Archive) - [The God Protocols](http://web.archive.org/web/20061230075325/http://www.theiia.org/ITAudit/index.cfm?act=itaudit.archive&fid=216) by Nick Szabo
-* 2002 szabo.best.vwh.net (Web Archive) - [Trusted Third Parties are Security Holes](http://web.archive.org/web/20160705000502/http://szabo.best.vwh.net/ttps.html) by Nick Szabo
-* 2002 szabo.best.vwh.net (Web Archive) - [A Formal Language for Analyzing Contracts](http://web.archive.org/web/20160810220820/http://szabo.best.vwh.net/contractlanguage.html) by Nick Szabo
-* 2002 szabo.best.vwh.net (Web Archive) - [Shelling Out: The Origins of Money](http://web.archive.org/web/20160921140955/http://szabo.best.vwh.net/shell.html) by Nick Szabo
-* 2002 szabo.best.vwh.net (Web Archive) - [The Playdough Protocols](http://nakamotoinstitute.org/literature/the-playdough-protocols/) by Nick Szabo
-* 2002 szabo.best.vwh.net (Web Archive) - [Measuring Value](http://web.archive.org/web/20160919162114/http://szabo.best.vwh.net/measuringvalue.html) by Nick Szabo
-* 2003 szabo.best.vwh.net (Web Archive) - [Advances in Distributed Security](http://web.archive.org/web/20160715035054/http://szabo.best.vwh.net/distributed.html) by Nick Szabo
-* 2004 szabo.best.vwh.net (Web Archive) - [Scarce Objects](http://web.archive.org/web/20160620184010/http://szabo.best.vwh.net/scarce.html) by Nick Szabo
-* 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) _([link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html))_ _([link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW))_ by Hal Finney
+* 1993 szabo.best.vwh.net (Web Archive) - [Multinational Small Business](http://web.archive.org/web/20160620183937/http://szabo.best.vwh.net/multi_small.html) by [Nick Szabo](people/nick_szabo.md)
+* 19-Aug-1993 Cypherpunk Mailing List (I think) - [Digital Cash & Privacy](http://fennetic.net/irc/finney.org/~hal/dig_cash_priv.html) by [Hal Finney](people/hal_finney.md)
+* 15-Oct-1993 (Rev. 13-Mar-1996) www.finney.org/~hal/ (Web Archive) - [Detecting Double Spending](http://nakamotoinstitute.org/literature/detecting-double-spending/) by [Hal Finney](people/hal_finney.md)
+* 30-Mar-1994 Cypherpunk Mailing List (I think) - [PGP Web of Trust Misconceptions](http://fennetic.net/irc/finney.org/~hal/web_of_trust.html) by [Hal Finney](people/hal_finney.md)
+* 1996 szabo.best.vwh.net (Web Archive) - [Negative Reputation](http://web.archive.org/web/20160704085927/http://szabo.best.vwh.net/negative_rep.html) by [Nick Szabo](people/nick_szabo.md)
+* 1997 szabo.best.vwh.net (Web Archive) - [Formalizing and Securing Relationships on Public Networks](http://web.archive.org/web/20160920045707/http://szabo.best.vwh.net/formalize.html) by [Nick Szabo](people/nick_szabo.md)
+* 1998/1999 szabo.best.vwh.net (Web Archive) - [Secure Property Titles with Owner Authority](https://web.archive.org/web/20020202165211/http://szabo.best.vwh.net/securetitle.html) by [Nick Szabo](people/nick_szabo.md)
+* May 1999 szabo.best.vwh.net (Web Archive) - [Micropayments and Mental Transaction Costs](http://web.archive.org/web/20160620183941/http://szabo.best.vwh.net/berlinmentalmicro.pdf) by [Nick Szabo](people/nick_szabo.md)
+* 1999 szabo.best.vwh.net (Web Archive) - [Intrapolynomial Cryptography](https://web.archive.org/web/20011217091748/http://szabo.best.vwh.net/intrapoly.html) by [Nick Szabo](people/nick_szabo.md)
+* 1999 szabo.best.vwh.net (Web Archive) - [Contracts with Bearer](http://web.archive.org/web/20160620184022/http://szabo.best.vwh.net/bearer_contracts.html) by [Nick Szabo](people/nick_szabo.md)
+* 1999 www.theiia.org (Web Archive) - [The God Protocols](http://web.archive.org/web/20061230075325/http://www.theiia.org/ITAudit/index.cfm?act=itaudit.archive&fid=216) by [Nick Szabo](people/nick_szabo.md)
+* 2002 szabo.best.vwh.net (Web Archive) - [Trusted Third Parties are Security Holes](http://web.archive.org/web/20160705000502/http://szabo.best.vwh.net/ttps.html) by [Nick Szabo](people/nick_szabo.md)
+* 2002 szabo.best.vwh.net (Web Archive) - [A Formal Language for Analyzing Contracts](http://web.archive.org/web/20160810220820/http://szabo.best.vwh.net/contractlanguage.html) by [Nick Szabo](people/nick_szabo.md)
+* 2002 szabo.best.vwh.net (Web Archive) - [Shelling Out: The Origins of Money](http://web.archive.org/web/20160921140955/http://szabo.best.vwh.net/shell.html) by [Nick Szabo](people/nick_szabo.md)
+* 2002 szabo.best.vwh.net (Web Archive) - [The Playdough Protocols](http://nakamotoinstitute.org/literature/the-playdough-protocols/) by [Nick Szabo](people/nick_szabo.md)
+* 2002 szabo.best.vwh.net (Web Archive) - [Measuring Value](http://web.archive.org/web/20160919162114/http://szabo.best.vwh.net/measuringvalue.html) by [Nick Szabo](people/nick_szabo.md)
+* 2003 szabo.best.vwh.net (Web Archive) - [Advances in Distributed Security](http://web.archive.org/web/20160715035054/http://szabo.best.vwh.net/distributed.html) by [Nick Szabo](people/nick_szabo.md)
+* 2004 szabo.best.vwh.net (Web Archive) - [Scarce Objects](http://web.archive.org/web/20160620184010/http://szabo.best.vwh.net/scarce.html) by [Nick Szabo](people/nick_szabo.md)
+* 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) _([link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html))_ _([link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW))_ by [Hal Finney](people/hal_finney.md)
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * Dec 2005 Unenumerated (Nick Szabo's Blog) - [Bit gold](http://unenumerated.blogspot.co.uk/2005/12/bit-gold.html)
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
