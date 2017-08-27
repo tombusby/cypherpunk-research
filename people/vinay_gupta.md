@@ -7,7 +7,7 @@ From myhopeforthe.world:
 
 > I had always had profound talent for technology, and so I went back to my original trade full time, helped launch Ethereum (a >$15bn blockchain project), and now run hexayurt.capital, a VC in London. I hope one day I will get back to doing humanitarian design full time. But this time with a staff to help me realize my hope for the world.
 
-- Vinay Gupta, London, May 2017
+— Vinay Gupta, London, May 2017
 
 Medium bio:
 
