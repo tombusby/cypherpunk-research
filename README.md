@@ -68,7 +68,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Cory Fields](people/cory_fields.md) - Bitcoin Core developer, Holds the number 4 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jeff Garzik](people/jeff_garzik.md) - Former Bitcoin Core developer, Now development lead of SegWit2X hard fork proposal
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
-* [Mark Karpeles](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
+* [Mark Karpelès](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
 * [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)
 * [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
 * [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
