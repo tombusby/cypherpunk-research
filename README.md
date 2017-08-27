@@ -185,6 +185,8 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * 17-May-1999 Wired Magazine - [The First True Cypherpunk Novel](https://www.wired.com/1999/05/the-first-true-cypherpunk-novel/) by Declan McCullagh
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
 * 19-Mar-2013 BitcoinTalk.org - [Bitcoin and me](https://bitcointalk.org/index.php?topic=155054.0) by [Hal Finney](people/hal_finney.md)
+* Jun 2013-Present TheGuardian.com - [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files)
+* Jun 2013-Present Archive.org - [Global Surveillance Disclosures - Documents released by and relating to global surveillance.](https://archive.org/details/nsia-snowden-documents)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg
 * 11-Jul-2014 Wired Magazine - [Waiting for Dark: Inside Two Anarchists' Quest for Untraceable Money](https://www.wired.com/2017/05/one-scrappy-startup-survived-early-bitcoin-wars/) by Andy Greenberg
 * 28-Dec-2014 Oleg Andreev's Blog - [Real crypto-anarchy](http://blog.oleganza.com/post/71410377996/real-crypto-anarchy)
