@@ -128,3 +128,4 @@ http://ethdocs.org/en/latest/introduction/history-of-ethereum.html
 https://www.theatlantic.com/magazine/archive/2017/09/big-in-venezuela/534177/
 https://medium.com/blackmoon-crypto/the-crypto-finance-ecosystem-c0bc66a5612f
 http://randomwalker.info/publications/crypto-dream-part1.pdf
+https://www.theverge.com/2013/3/7/4036040/cypherpunks-julian-assange-wikileaks-encryption-surveillance-dystopia
