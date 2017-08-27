@@ -13,4 +13,4 @@ From wikipedia:
 
 * [Eric Hughes on Wikipedia](https://en.wikipedia.org/wiki/Eric_Hughes_%28cypherpunk%29)
 * 22-Nov-1992 Cypherpunk Mailing List - [Crypto Glossary](http://nakamotoinstitute.org/static/docs/crypto-glossary.txt) by Eric Hughes and [Timothy C. May](people/timothy_c_may.md)
-* 09-Mar-1993 Cypherpunk Mailing List - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes _the phrase "Cypherpunks write code" comes from this document_
+* 09-Mar-1993 Cypherpunk Mailing List - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by Eric Hughes - _the phrase "Cypherpunks write code" comes from this document_

@@ -110,10 +110,10 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 
 ## Philosophical/Ideological Sources
 * 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
-* 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) _not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture_
+* 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) - _not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture_
 * 01-Sep-1992 Cypherpunk Mailing List - [Libertaria in Cyberspace](https://www.activism.net/cypherpunk/libertaria.html) by [Timothy C. May](people/timothy_c_may.md)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
-* 09-Mar-1993 Cypherpunk Mailing List - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by [Eric Hughes](people/eric_hughes.md) _the phrase "Cypherpunks write code" comes from this document_
+* 09-Mar-1993 Cypherpunk Mailing List - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by [Eric Hughes](people/eric_hughes.md) - _the phrase "Cypherpunks write code" comes from this document_
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by [Timothy C. May](people/timothy_c_may.md)
 * Dec 1994 Cypherpunk Mailing List - [Crypto Anarchy and Virtual Communities](http://nakamotoinstitute.org/virtual-communities/) by [Timothy C. May](people/timothy_c_may.md)
 * 08-Feb-1996 - [A Declaration of the Independence of Cyberspace](https://www.eff.org/cyberspace-independence) by [John Perry Barlow](people/john_perry_barlow.md)
@@ -126,7 +126,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
 * [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
-* Nov 1976 IEEE Transactions on Information Theory, VOL. IT-22, NO. 6 - [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman _this paper describes Diffie-Hellman key exchange_
+* Nov 1976 IEEE Transactions on Information Theory, VOL. IT-22, NO. 6 - [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman - _this paper describes Diffie-Hellman key exchange_
 * Apr 1978 - [Protocols for Public Key Cryptosystems](http://www.merkle.com/papers/Protocols.pdf)
 * Apr 1978 - [Secure Communications over Insecure Channels](http://www.merkle.com/1974/Puzzles1975.12.07.pdf)
 * 1981 Research Paper - [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](http://nakamotoinstitute.org/static/docs/untraceable-electronic-mail.pdf) by [David Chaum](people/david_chaum.md)
