@@ -16,5 +16,5 @@ From wikipedia:
 * [Edward Snowden on Wikipedia](https://en.wikipedia.org/wiki/Edward_Snowden)
 * [@Snowden on Twitter](https://twitter.com/Snowden)
 * [CitizenFour (2014 Documentary)](http://watchdocumentaries.com/citizenfour/)
-* 2013-Present TheGuardian.com - [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files)
+* Jun 2013-Present TheGuardian.com - [The NSA Files](https://www.theguardian.com/us-news/the-nsa-files)
 * Jun 2013-Present Archive.org - [Global Surveillance Disclosures - Documents released by and relating to global surveillance.](https://archive.org/details/nsia-snowden-documents)
