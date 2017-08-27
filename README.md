@@ -156,7 +156,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * 2003 szabo.best.vwh.net (Web Archive) - [Advances in Distributed Security](http://web.archive.org/web/20160715035054/http://szabo.best.vwh.net/distributed.html) by [Nick Szabo](people/nick_szabo.md)
 * 2004 szabo.best.vwh.net (Web Archive) - [Scarce Objects](http://web.archive.org/web/20160620184010/http://szabo.best.vwh.net/scarce.html) by [Nick Szabo](people/nick_szabo.md)
 * 06-Jul-2004 iang.org - [The Ricardian Contract](http://iang.org/papers/ricardian_contract.html) by [Ian Grigg](people/ian_grigg.md)
-* Aug 2004 svn.torproject.org - [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf) by Roger Dingledine, Nick Mathewson, Paul Syverson
+* 18-May-2004 svn.torproject.org - [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf) by Roger Dingledine, Nick Mathewson, Paul Syverson
 * 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) _([link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html))_ _([link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW))_ by [Hal Finney](people/hal_finney.md)
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * Dec 2005 Unenumerated (Nick Szabo's Blog) - [Bit gold](http://unenumerated.blogspot.co.uk/2005/12/bit-gold.html)
