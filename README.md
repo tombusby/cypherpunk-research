@@ -56,7 +56,7 @@ The following people are mostly (but not all) original Cypherpunks who were acti
 
 ## Notable People (A-Z)
 
-Many of these are not true/original Cypherpunks (some are) but instead are people who were key players (or adversaries depending on your perspective) in Cypherpunk successor movements and events.
+Many of these are not true and/or original Cypherpunks (some are) but instead are people who were/are key players (or adversaries depending on your perspective) in Cypherpunk successor movements and events.
 
 * [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
@@ -136,6 +136,7 @@ Many of these are not true/original Cypherpunks (some are) but instead are peopl
 * 1998-2000 iang.org - [Financial Cryptography in 7 Layers](http://iang.org/papers/fc7.html) by [Ian Grigg](people/ian_grigg.md)
 * 1989 Research Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by [David Chaum](people/david_chaum.md)
 * 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by [David Chaum](people/david_chaum.md)
+* 22-Nov-1992 Cypherpunk Mailing List - [Crypto Glossary](http://nakamotoinstitute.org/static/docs/crypto-glossary.txt) by [Eric Hughes](people/eric_hughes.md) and [Timothy C. May](people/timothy_c_may.md)
 * 1993 szabo.best.vwh.net (Web Archive) - [Multinational Small Business](http://web.archive.org/web/20160620183937/http://szabo.best.vwh.net/multi_small.html) by [Nick Szabo](people/nick_szabo.md)
 * 19-Aug-1993 Cypherpunk Mailing List (I think) - [Digital Cash & Privacy](http://fennetic.net/irc/finney.org/~hal/dig_cash_priv.html) by [Hal Finney](people/hal_finney.md)
 * 15-Oct-1993 (Rev. 13-Mar-1996) www.finney.org/~hal/ (Web Archive) - [Detecting Double Spending](http://nakamotoinstitute.org/literature/detecting-double-spending/) by [Hal Finney](people/hal_finney.md)
