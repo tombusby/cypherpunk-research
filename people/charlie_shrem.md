@@ -22,4 +22,4 @@ From wikipedia:
 * [Charlie Shrem on Wikipedia](https://en.wikipedia.org/wiki/Charlie_Shrem)
 * [@CharlieShrem on Twitter](https://twitter.com/CharlieShrem)
 * [charlieshrem.com - Personal Website](http://charlieshrem.com/)
-* 04-Dec-2016 Business Insider [A 26-year old Bitcoin entrepreneur was handed prison time, and the experience only confirmed his belief in the cryptocurrency](http://markets.businessinsider.com/news/stocks/A-26-year-old-Bitcoin-entrepreneur-was-handed-prison-time-and-the-experience-only-confirmed-his-belief-in-the-cryptocurrency-1001572621) by Tina Wadhwa
+* 04-Dec-2016 Business Insider - [A 26-year old Bitcoin entrepreneur was handed prison time, and the experience only confirmed his belief in the cryptocurrency](http://markets.businessinsider.com/news/stocks/A-26-year-old-Bitcoin-entrepreneur-was-handed-prison-time-and-the-experience-only-confirmed-his-belief-in-the-cryptocurrency-1001572621) by Tina Wadhwa
