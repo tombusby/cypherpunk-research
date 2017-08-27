@@ -27,6 +27,8 @@ These seem like appropriate first items to include:
 
 ## Very Notable People (A-Z)
 
+The following people are mostly (but not all) original Cypherpunks who were active on the mailing list.
+
 * [Julian Assange](people/julian_assange.md) - Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday
 * [Adam Back](people/adam_back.md) - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
 * [Jim Bell](people/jim_bell.md) - 90s Cypherpunk, Crypto-anarchist, Author of [Assassination Politics](http://cryptome.org/ap.htm)
@@ -53,6 +55,8 @@ These seem like appropriate first items to include:
 * [Phil Zimmerman](people/phil_zimmerman.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
 
 ## Notable People (A-Z)
+
+Many of these are not true/original Cypherpunks (some are) but instead are people who were key players (or adversaries depending on your perspective) in Cypherpunk successor movements and events.
 
 * [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
