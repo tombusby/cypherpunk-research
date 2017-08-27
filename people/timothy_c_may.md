@@ -33,6 +33,7 @@ W.A.S.T.E.: Aptos, CA  | black markets, collapse of governments.
 ## Links
 
 * [Timothy C. May on Wikipedia](https://en.wikipedia.org/wiki/Timothy_C._May)
+* 01-Sep-1992 Cypherpunk Mailing List - [Libertaria in Cyberspace](https://www.activism.net/cypherpunk/libertaria.html) by Timothy C. May
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by Timothy C. May
 * 11-Sep-1994 Cypherpunk Mailing List - [The Cyphernomicon (Mailing List FAQ)](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html) by Timothy C. May
 * Dec 1994 Cypherpunk Mailing List - [Crypto Anarchy and Virtual Communities](http://nakamotoinstitute.org/virtual-communities/) by Timothy C. May
