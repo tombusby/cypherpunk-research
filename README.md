@@ -69,7 +69,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Jeff Garzik](people/jeff_garzik.md) - Former Bitcoin Core developer, Now development lead of SegWit2X hard fork proposal
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
 * [Mark Karpeles](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
-* [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of Craig Wright
+* [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)
 * [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
 * [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
 * [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
@@ -191,12 +191,13 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * May 2015 Wired Magazine - [The Untold Story of Silk Road, Part 2 - The Fall](https://www.wired.com/2015/04/silk-road-1/) by Joshuah Bearman
 * 03-Aug-2015 The Intercept - [GCHQ and Me](https://theintercept.com/2015/08/03/life-unmasking-british-eavesdroppers/) by Duncan Campbell
 * 25-Sep-2015 The Intercept - [From Radio to Porn, British Spies Track Web Users’ Online Identities](https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/) by Ryan Gallagher
+* Mar 2016 American Scientist - [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) by Jamie Bartlett
 * 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _(article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md))_
 * 18-Jun-2016 Wired Magazine - [A $50 Million Hack Just Showed That the DAO Was All Too Human](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/) by Klint Finley
 * 31-Jul-2016 Wired Magazine - [Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us](https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/) by Andy Greenberg
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
-* 04-June-2014 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett
+* 04-June-2017 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett
 * 24-Aug-2017 Bitcoin Blockchain - [The First SegWit transaction on Bitcoin](http://srv1.yogh.io/#tx:id:8F907925D2EBE48765103E6845C06F1F2BB77C6ADC1CC002865865EB5CFD5C1C)
 
 ## Successor Online Communities

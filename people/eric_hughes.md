@@ -1,7 +1,13 @@
 
 # Eric Hughes
 
-_placeholder_
+From wikipedia:
+
+> Eric Hughes is an American mathematician, computer programmer, and cypherpunk. He is considered one of the founders of the cypherpunk movement, alongside Timothy C. May and John Gilmore. He is notable for founding and administering the Cypherpunk mailing list, authoring A Cypherpunk's Manifesto, creating and hosting the first anonymous remailer, and coining the motto, "Cypherpunks write code".
+
+> The May/June 1993 issue of Wired featured a cover photo of three masked cypherpunks, of which Hughes was one.
+
+> On September 27, 2012, Hughes delivered the keynote address, Putting the Personal Back in Personal Computers, at the Amsterdam CryptoParty.
 
 ## Links
 
