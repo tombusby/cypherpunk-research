@@ -3,7 +3,7 @@
 
 From wikipedia:
 
-> ##Withdrawals halted; trading suspended; bitcoin missing (2014)
+> ## Withdrawals halted; trading suspended; bitcoin missing (2014)
 
 > Customer complaints about long delays were mounting as of February 2014, with more than 3,300 posts in a thread about the topic on the Bitcoin Talk online forum.
 
@@ -23,7 +23,7 @@ From wikipedia:
 
 > From 1 February 2014 until the end of March, during the period of Mt. Gox problems, the value of bitcoin declined by 36%.
 
-> ##Bankruptcy; Stolen bitcoin (2014–16)
+> ## Bankruptcy; Stolen bitcoin (2014–16)
 
 > On 28 February 2014 Mt. Gox filed in Tokyo for a form of bankruptcy protection from creditors called minji saisei (or civil rehabilitation) to allow courts to seek a buyer, reporting that it had liabilities of about 6.5 billion yen ($65 million, at the time), and 3.84 billion yen in assets.
 
