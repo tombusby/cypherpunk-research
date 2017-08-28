@@ -8,6 +8,7 @@ Twitter bio:
 ## Links
 
 * [@petertoddbtc on Twitter](https://twitter.com/petertoddbtc)
+* [petertodd on Reddit](https://www.reddit.com/user/petertodd)
 * [petertodd on GitHub](https://github.com/petertodd)
 * [petertodd.org Blog](https://petertodd.org/)
 * 09-Jan-2014 Let's Talk Bitcoin - [Amir Taaki with Mastercoin's Peter Todd - Part 1](https://www.youtube.com/watch?v=0fGPhwVUeug) with [Amir Taaki](/people/amir_taaki.md)
