@@ -1,7 +1,7 @@
 
 # Zhou Tong
 
-His name is the origin of the crypto slang "Zhou Tonged":
+His name is the origin of the cryptocurrency community slang "Zhou Tonged":
 
 > Bitcoin Slang, Your positions are automatically liquidated due to insufficient trading balance after a margin call. This occurs when trading using "leverage buying" at high levels 5:1 or 10:1. The large swings in the Bitcoin exchange rates can force automated margin selling, when the Broker sells out the customer without notice. I Just Got "ZHOU TONGED"!.... lost it all on a margin call.
 
