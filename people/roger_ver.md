@@ -1,6 +1,8 @@
 
 # Roger Ver
 
+From wikipedia:
+
 > Roger Ver (born in February 1979) is a former politician and a Kittitian/Nevisian early investor in bitcoin related startups. He was formerly an American citizen. He was born and lived in Silicon Valley. He now resides in Japan. He has been a prominent supporter of bitcoin adoption and sees bitcoin as a means to promote economic freedom. He identifies as a libertarian, an anarcho-capitalist, peace advocate and advocates for individualism and voluntaryism.
 
 > He initially did well with a computer parts business, MemoryDealers.com, which saw him become a millionaire by the time he was 25. He was the CEO of MemoryDealers.com from 1999 until 2012. In 2000, he attempted to enter politics by running for California State Assembly as a candidate for the Libertarian Party.
