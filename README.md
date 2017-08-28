@@ -196,7 +196,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * 03-Aug-2015 The Intercept - [GCHQ and Me](https://theintercept.com/2015/08/03/life-unmasking-british-eavesdroppers/) by Duncan Campbell
 * 25-Sep-2015 The Intercept - [From Radio to Porn, British Spies Track Web Users’ Online Identities](https://theintercept.com/2015/09/25/gchq-radio-porn-spies-track-web-users-online-identities/) by Ryan Gallagher
 * Mar 2016 American Scientist - [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) by Jamie Bartlett
-* 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _(article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md))_
+* 10-Mar-2016 Atavist Magazine - [The Mastermind - 7 Part Article Series](https://magazine.atavist.com/the-mastermind) by Evan Ratliff - _article series about [Paul Calder Le Roux](people/paul_calder_le_roux.md)_
 * 18-Jun-2016 Wired Magazine - [A $50 Million Hack Just Showed That the DAO Was All Too Human](https://www.wired.com/2016/06/50-million-hack-just-showed-dao-human/) by Klint Finley
 * 31-Jul-2016 Wired Magazine - [Meet Moxie Marlinspike, the Anarchist Bringing Encryption to All of Us](https://www.wired.com/2016/07/meet-moxie-marlinspike-anarchist-bringing-encryption-us/) by Andy Greenberg
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
