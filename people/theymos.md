@@ -26,4 +26,5 @@ Another controversy relates to Bitcoin donations (over 6000BTC - which is curren
 * 17-Jun-2013 BitcoinTalk - [Where's the new forum Theymos?](https://bitcointalk.org/index.php?topic=236325.0)
 * 01-Oct-2015 Bitco.in Forums - [Who is Theymos and what did he do?](https://bitco.in/forum/threads/who-is-theymos-and-what-did-he-do.87/)
 * 11-May-2016 news.bitcoin.com - [Theymos: “Bitcoins Belonging to Satoshi Should Be Destroyed”](https://news.bitcoin.com/theymos-bitcoins-satoshi-destroyed/) by Jean-Pierre Buntinx
+* 14-Nov-2016 Medium.com - [A (brief and incomplete) history of censorship in /r/Bitcoin](censorship-in-r-bitcoin) by John Blocke
 * 21-Dec-2016 Quora.com - [Who is the reddit user theymos?](https://www.quora.com/Who-is-the-reddit-user-theymos) answered by Meni Rosenfeld
