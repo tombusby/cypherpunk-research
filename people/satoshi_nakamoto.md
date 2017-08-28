@@ -34,7 +34,7 @@ From wikipedia:
 
 * [Satoshi Nakamoto on Wikipedia](https://en.wikipedia.org/wiki/Satoshi_Nakamoto)
 * [Satoshi's PGP Key](http://nakamotoinstitute.org/static/satoshinakamoto.asc)
-* 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
+* 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - _[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_
 * 11-Feb-2009 P2P Foundation - [Bitcoin open source implementation of P2P currency - Posted by Satoshi Nakamoto](http://p2pfoundation.ning.com/forum/topics/bitcoin-open-source)
 * [Bitcoin Source: Pre-Release, v0.1.0 and v0.1.3](http://satoshi.nakamotoinstitute.org/code/)
 * [Cryptography Mailing List Emails](http://satoshi.nakamotoinstitute.org/emails/cryptography/)

@@ -69,7 +69,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Jeff Garzik](people/jeff_garzik.md) - Former Bitcoin Core developer, Now development lead of SegWit2X hard fork proposal
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
 * [Mark Karpelès](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
-* [Dave Kleiman](people/dave_kleiman.md) - Candidate for Satoshi, Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)
+* [Dave Kleiman](people/dave_kleiman.md) - Candidate for [Satoshi](people/satoshi_nakamoto.md), Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)
 * [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
 * [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
 * [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
@@ -157,11 +157,11 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * 2004 szabo.best.vwh.net (Web Archive) - [Scarce Objects](http://web.archive.org/web/20160620184010/http://szabo.best.vwh.net/scarce.html) by [Nick Szabo](people/nick_szabo.md)
 * 06-Jul-2004 iang.org - [The Ricardian Contract](http://iang.org/papers/ricardian_contract.html) by [Ian Grigg](people/ian_grigg.md)
 * 18-May-2004 svn.torproject.org - [Tor: The Second-Generation Onion Router](https://svn.torproject.org/svn/projects/design-paper/tor-design.pdf) by Roger Dingledine, Nick Mathewson, Paul Syverson
-* 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) _([link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html))_ _([link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW))_ by [Hal Finney](people/hal_finney.md)
+* 15-Aug-2004 Cypherpunk Mailing List - [RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) by [Hal Finney](people/hal_finney.md) - _[link to archive of RPOW website](http://nakamotoinstitute.org/finney/rpow/index.html)_, _[link to archive of RPOW codebase](https://github.com/NakamotoInstitute/RPOW)_
 * 01-Aug-2002 - [Hashcash - Denial of Service Counter-Measure](http://www.hashcash.org/papers/hashcash.pdf) by [Adam Back](people/adam_back.md)
 * Dec 2005 Unenumerated (Nick Szabo's Blog) - [Bit gold](http://unenumerated.blogspot.co.uk/2005/12/bit-gold.html)
 * 25-Dec-2005 iang.org - [Triple Entry Accounting](http://iang.org/papers/triple_entry.html) by [Ian Grigg](people/ian_grigg.md)
-* 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - (_[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_)
+* 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - _[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
 * 05-Sep-2015 Garret Fogerlie - [How Tor Users Got Caught - Defcon 22](https://www.youtube.com/watch?v=7G1LjQSYM5Q)
 * 07-Dec-2015 bitcoin-dev Mailing List - [Capacity increases for the Bitcoin system - (Core's Roadmap)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html)
