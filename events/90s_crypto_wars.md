@@ -13,7 +13,7 @@ Since Public Key encryption was considered a munition, t-shirts like this (conta
 
 ## Links
 
-* [Phil Zimmermann's entry in this repository](/people/phil_Zimmermann.md)
+* [Phil Zimmermann's entry in this repository](/people/phil_zimmermann.md)
 * [Phil Zimmermann on Wikipedia](https://en.wikipedia.org/wiki/Phil_Zimmermann)
 * [Pretty Good Privacy (PGP) on Wikipedia](https://en.wikipedia.org/wiki/Pretty_Good_Privacy)
 * 01-Jan-1993 Wired Magazine - [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) by Steven Levy

@@ -52,7 +52,7 @@ The following people are mostly (but not all) original Cypherpunks who were acti
 * [Edward Snowden](people/edward_snowden.md) - Former NSA contractor turned leaker, is clearly inspired by Cypherpunk ideals
 * [Nick Szabo](people/nick_szabo.md) - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for [Satoshi](people/satoshi_nakamoto.md)
 * [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md) - Founder of the Silk Road dark net market, "The Princess Bride" fan, Currently serving life in prison
-* [Phil Zimmermann](people/phil_Zimmermann.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
+* [Phil Zimmermann](people/phil_zimmermann.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
 
 ## Notable People (A-Z)
 
@@ -117,7 +117,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * 1978 Mises.org - [Denationalisation of Money: The Argument Refined](https://mises.org/document/3970/Denationalisation-of-Money-The-Argument-Refined) by Friedrich A. Hayek
 * Nov 1979 NakamotoInstitute.org - [From Crossbows To Cryptography: Techno-Thwarting The State](http://nakamotoinstitute.org/static/docs/from-crossbows-to-cryptography.pdf) by Chuck Hammill
 * 1990s Various BBSs - [Electronic Magazines](http://www.textfiles.com/magazines/) - _not strictly Cypherpunk, but a window into the Anarchic Late-80s/Early-90s internet culture_
-* 1991 PhilZimmermann.com - [Why I Wrote PGP](https://www.philZimmermann.com/EN/essays/WhyIWrotePGP.html) by [Phil Zimmermann](people/phil_Zimmermann.md)
+* 1991 PhilZimmermann.com - [Why I Wrote PGP](https://www.philZimmermann.com/EN/essays/WhyIWrotePGP.html) by [Phil Zimmermann](people/phil_zimmermann.md)
 * 01-Sep-1992 Cypherpunk Mailing List - [Libertaria in Cyberspace](https://www.activism.net/cypherpunk/libertaria.html) by [Timothy C. May](people/timothy_c_may.md)
 * 22-Nov-1992 Cypherpunk Mailing List - [The Crypto-Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) by [Timothy C. May](people/timothy_c_may.md)
 * 09-Mar-1993 Cypherpunk Mailing List - [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) by [Eric Hughes](people/eric_hughes.md) - _the phrase "Cypherpunks write code" comes from this document_
