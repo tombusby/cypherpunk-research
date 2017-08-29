@@ -11,6 +11,7 @@ Most famous as the inventor of the Bittorrent protocol. He currently has plans f
 
 * [Bram Cohen on Wikipedia](https://en.wikipedia.org/wiki/Bram_Cohen)
 * [@bramcohen on Twitter](https://twitter.com/bramcohen)
-* 04-Feb-2008 [The BitTorrent Protocol Specification](http://www.bittorrent.org/beps/bep_0003.html)
 * [bramcohen.com - Personal Blog](http://bramcohen.com/)
 * [BitTorrent creator Bram Cohen on piracy and autism](https://www.youtube.com/watch?v=JOa1ecTy3EA)
+* 04-Feb-2008 [The BitTorrent Protocol Specification](http://www.bittorrent.org/beps/bep_0003.html)
+* 08-Jul-2017 SF Bitcoin Developers on Youtube - [Bram Cohen: Data Structures for Scaling Bitcoin](https://www.youtube.com/watch?v=52FVkHlCh7Y)

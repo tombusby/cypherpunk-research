@@ -16,3 +16,4 @@ Twitter bio:
 * 16-Aug-2014 Brave New Books - [Cody Wilson and Amir Taaki guest host The Crypto Show (with Peter Todd)](https://www.youtube.com/watch?v=xG5HlETyk7A) with [Cody Wilson](/people/cody_wilson.md) and [Amir Taaki](/people/amir_taaki.md)
 * 10-Sep-2014 World Crypto Network - [Chris Before Coffee - Squat with Amir Taaki, Peter Todd, +BraveTheWorld  and the Unsystem crew](https://www.youtube.com/watch?v=A0KV0lesSK8) with [Amir Taaki](/people/amir_taaki.md)
 * 15-Apr-2015 Daniel Cawrey on Medium.com - [https://medium.com/zapchain-magazine/why-one-bitcoin-developer-thinks-cryptocurrencies-have-a-dreadful-future-93007cff1613](https://medium.com/zapchain-magazine/why-one-bitcoin-developer-thinks-cryptocurrencies-have-a-dreadful-future-93007cff1613)
+* 03-Sep-2015 ZapChain on Youtube - [ZapChain Interview with Bitcoin Core Developer Peter Todd](https://www.youtube.com/watch?v=Cn6MUJLJfFc)

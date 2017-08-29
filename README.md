@@ -84,7 +84,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Cody Wilson](people/cody_wilson.md) - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with [Amir Taaki](people/amir_taaki.md) on DarkWallet as a kind of spokesman/propagandist
 * [Craig Wright](people/craig_wright.md) - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
 * [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with [Roger Ver](people/roger_ver.md) as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
-* [Peter Wuille](people/peter_wuille.md) - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
+* [Pieter Wuille](people/pieter_wuille.md) - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
 
 ## Notable Orginisations (A-Z)
 
