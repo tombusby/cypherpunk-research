@@ -31,5 +31,5 @@ From wikipedia:
 * [Mark Karpelès on Wikipedia](https://en.wikipedia.org/wiki/Mark_Karpel%C3%A8s)
 * [@MagicalTux on Twitter](https://twitter.com/MagicalTux)
 * [Mt. Gox on Wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
-* 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
+* 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](/people/andreas_antonopoulos.md)
 

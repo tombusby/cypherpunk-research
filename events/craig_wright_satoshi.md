@@ -5,4 +5,4 @@ _placeholder_
 
 ## Links
 
-* [Craig Wright's entry in this repository](people/craig_wright.md)
+* [Craig Wright's entry in this repository](/people/craig_wright.md)

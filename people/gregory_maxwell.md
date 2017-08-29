@@ -11,7 +11,9 @@ Blockstream.com team bio:
 * [nullc on Reddit](https://www.reddit.com/user/nullc)
 * [Gregory Maxwell on GitHub](https://github.com/gmaxwell)
 * 29-Dec-2014 CoinDesk - [Gregory Maxwell: How I Went From Bitcoin Skeptic to Core Developer](https://www.coindesk.com/gregory-maxwell-went-bitcoin-skeptic-core-developer/) by Daniel Cawrey
+* 03-Feb-2015 Epicenter Bitcoin on Youtube - [EB65 – Adam Back & Greg Maxwell: Sidechains Unchained](https://www.youtube.com/watch?v=jE_elgnIw3M) with [Adam Back](/people/adam_back.md)
 * 09-Nov-2015 The Bitcoin Foundation on Youtube - [Top Bitcoin Core Dev Greg Maxwell DevCore: Must watch talk on mining, block size, and more](https://www.youtube.com/watch?v=RguZ0_nmSPw)
+* 09-Nov-2015 The Bitcoin Foundation on Youtube - [Panel Discussion-DevCore Draper University 2015](https://www.youtube.com/watch?v=0iQSRGT3nfE) with [Andreas Antonopoulos](/people/andreas_antonopoulos.md), [Matt Corallo](/people/matt_corallo.md) and [Gavin Andresen](/people/gavin_andresen.md)
 * 07-Dec-2015 bitcoin-dev Mailing List - [Capacity increases for the Bitcoin system - (Core's Roadmap)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html)
 * 03-Feb-2016 news.bitcoin.com - [The Curious Case of Gregory Maxwell & The Lightning Network](https://news.bitcoin.com/the-curious-case-of-gregory-maxwell-and-the-lightning-network/) by Jean-Pierre Buntinx
 * 05-Mar-2017 CryptoCoinsNews - [Bitcoin Dev Gavin Andresen: Samson Mow and Greg Maxwell = “Toxic Trolls”](https://www.cryptocoinsnews.com/gavin-andresen-samson-mow-and-greg-maxwell-toxic-trolls/) by P. H. Madore

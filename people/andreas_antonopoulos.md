@@ -20,3 +20,4 @@ From wikipedia:
 * [Andreas M. Antonopoulos on GitHub](https://github.com/aantonop)
 * 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by Andreas Antonopoulos
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by Andreas Antonopoulos
+* 09-Nov-2015 The Bitcoin Foundation on Youtube - [Panel Discussion-DevCore Draper University 2015](https://www.youtube.com/watch?v=0iQSRGT3nfE) with [Matt Corallo](/people/matt_corallo.md), [Gregory Maxwell](/people/gregory_maxwell.md) and [Gavin Andresen](/people/gavin_andresen.md)

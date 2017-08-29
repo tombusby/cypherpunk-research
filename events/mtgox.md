@@ -49,4 +49,4 @@ From wikipedia:
 
 * [Mark Karpelès's entry in this repository](/people/mark_karpeles.md)
 * [Mt. Gox on Wikipedia](https://en.wikipedia.org/wiki/Mt._Gox)
-* 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
+* 25-Feb-2014 Antonopoulos.com - [Statement on Mt.Gox](https://antonopoulos.com/statement-on-mt-gox/) by [Andreas Antonopoulos](/people/andreas_antonopoulos.md)

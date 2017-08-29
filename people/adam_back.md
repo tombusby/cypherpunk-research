@@ -20,4 +20,7 @@ From wikipedia:
 * [Hashcash white paper](http://www.hashcash.org/papers/hashcash.pdf) - _[mirror](http://nakamotoinstitute.org/static/docs/hashcash.pdf)_
 * [Blockstream on Wikipedia](https://en.wikipedia.org/wiki/Blockstream)
 * [Blockstream.com](https://blockstream.com/)
+* 03-Feb-2015 Epicenter Bitcoin on Youtube - [EB65 – Adam Back & Greg Maxwell: Sidechains Unchained](https://www.youtube.com/watch?v=jE_elgnIw3M) with [Gregory Maxwell](/people/gregory_maxwell.md)
+* 07-Sep-2015 Epicenter Bitcoin on Youtube - [EB95 – Adam Back: Why Bitcoin Needs A Measured Approach To Scaling](https://www.youtube.com/watch?v=wYHyR2E5Pic)
+* 09-Oct-2016 Kristov Atlas on Youtube - [Fungibility Overview by Adam Back and Matt Corallo (Scaling Bitcoin Milan 2016)](https://www.youtube.com/watch?v=AvS3tp0qqgA) with [Matt Corallo](/people/matt_corallo.md)
 * 17-Mar-2017 Medium.com - [Adam Back and Greg Maxwell aren’t the kings of Bitcoin](https://medium.com/@Chris_Stewart_5/adam-back-and-greg-maxwell-arent-the-kings-of-bitcoin-9e03e0a52177) by Chris Stewart

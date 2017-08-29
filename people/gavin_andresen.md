@@ -22,6 +22,8 @@ From wikipedia:
 * [Gavin Andresen on wikipedia](https://en.wikipedia.org/wiki/Gavin_Andresen)
 * [@gavinandresen on Twitter](https://twitter.com/gavinandresen)
 * [gavinandresen.ninja - Personal Blog](http://gavinandresen.ninja/)
+* 31-Aug-2015 Epicenter Bitcoin on Youtube - [EB94 – Gavin Andresen: On The Blocksize And Bitcoin's Governance](https://www.youtube.com/watch?v=B8l11q9hsJM)
+* 09-Nov-2015 The Bitcoin Foundation on Youtube - [Panel Discussion-DevCore Draper University 2015](https://www.youtube.com/watch?v=0iQSRGT3nfE) with [Andreas Antonopoulos](/people/andreas_antonopoulos.md), [Matt Corallo](/people/matt_corallo.md) and [Gregory Maxwell](/people/gregory_maxwell.md)
 * 05-Mar-2017 CryptoCoinsNews - [Bitcoin Dev Gavin Andresen: Samson Mow and Greg Maxwell = “Toxic Trolls”](https://www.cryptocoinsnews.com/gavin-andresen-samson-mow-and-greg-maxwell-toxic-trolls/) by P. H. Madore
 * 09-May-2017 CoinDesk - [Where is Gavin Andresen? The Quiet Exile of Bitcoin's Former Face](https://www.coindesk.com/where-is-gavin-andresen-the-quiet-exile-of-bitcoins-former-face/) by Bailey Reutzel
 * 06-Jun-2017 TrustNodes.com - [Making Gregory Maxwell a Bitcoin Core Committer Was a “Huge Mistake” Says Gavin Andresen](http://www.trustnodes.com/2017/06/06/making-gregory-maxwell-bitcoin-core-committer-huge-mistake-says-gavin-andresen) by ?

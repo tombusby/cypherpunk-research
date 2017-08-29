@@ -23,4 +23,4 @@ Twitter bio:
 * [Vinay Gupta on Medium](https://medium.com/@leashless)
 * [myhopeforthe.world](http://myhopeforthe.world/) by Vinay Gupta
 * [hexayurt.capital](http://hexayurt.capital/)
-* 25-Jul-2016 Epicenter Bitcoin on Youtube - [EB141 – Ralph Merkle: Revolutionizing Democracy Using DAOs](https://www.youtube.com/watch?v=hTuGoRdm5wo)
+* 18-Jan-2016 Epicenter Bitcoin on Youtube - [EB114 – Vinay Gupta: From Lawyer Capitalism To Programmer Capitalism](https://www.youtube.com/watch?v=hTuGoRdm5wo)
