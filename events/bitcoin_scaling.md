@@ -9,6 +9,7 @@ _placeholder_
 * [@nullc_ on Twitter - (Gregory Maxwell Parody Account (Hostile to core/small-blocks))](https://twitter.com/nullc_?lang=en)
 * 05-Mar-2015 SF Bitcoin Devs Seminar - [SF Bitcoin Devs Seminar: Scaling Bitcoin to Billions of Transactions Per Day](https://www.youtube.com/watch?v=8zVzw912wPo) by Joseph Poon & Thaddeus Dryja
 * 31-Aug-2015 Epicenter Bitcoin on Youtube - [EB94 – Gavin Andresen: On The Blocksize And Bitcoin's Governance](https://www.youtube.com/watch?v=B8l11q9hsJM) with [Gavin Andresen](/people/gavin_andresen.md)
+* 02-Sep-2015 CoinJournal.net - [Who Asked Wlad? What Does Bitcoin’s Lead Developer Say About The Scaling Debate?](https://coinjournal.net/who-asked-wlad-what-does-bitcoins-lead-developer-say-about-scaling-debate-exclusive/) by Ian Demartino with [Wladimir J. Van Der Laan](/people/wladimir_j_van_der_laan.md)
 * 09-Nov-2015 The Bitcoin Foundation on Youtube - [Top Bitcoin Core Dev Greg Maxwell DevCore: Must watch talk on mining, block size, and more](https://www.youtube.com/watch?v=RguZ0_nmSPw) with [Gregory Maxwell](/people/gregory_maxwell.md)
 * 07-Dec-2015 bitcoin-dev Mailing List - [Capacity increases for the Bitcoin system - (Core's Roadmap)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html)
 * 08-Feb-2016 Epicenter Bitcoin on Youtube - [EB117 – Eric Lombrozo: Upgrading Bitcoin With Segregated Witness](https://www.youtube.com/watch?v=iipca5gmcT8)
