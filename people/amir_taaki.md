@@ -23,6 +23,10 @@ From wikipedia:
 
 > In 2015, Taaki went to Rojava (Syrian Kurdistan) to offer his skills to the revolution, and served the YPG military. He had no training, but spent three and a half months in the YPG military fighting on the front. He was then discharged and worked in the civil society for over a year on various projects for Rojava's economics committee.
 
+## Quotes about Bitcoin Scaling
+
+> No, it's not very good for that. The Bitcoin-network is currently subsidized through inflation, meaning transactions cost about thirty dollars each. This vision of Bitcoin as a faster, cheaper and better payments-network is simply not tied to any technological grounding of what Bitcoin is really about. If we want to make Bitcoin a competitor to Visa or MasterCard, we would need to increase the blocksize and centralize mining so much that it is basically the same as existing payments networks. And even then, at some point, we'll reach a limit where Bitcoin is just not cost-efficient. We don't need to have all these miners crunching numbers just so people can buy a coffee. That's insane.
+
 ## Links
 
 * [Amir Taaki on Wikipedia](https://en.wikipedia.org/wiki/Amir_Taaki)
