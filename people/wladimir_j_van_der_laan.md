@@ -1,5 +1,5 @@
 
-# Wladimir J. Van Der Laan
+# Wladimir J. van der Laan
 
 WeUseCoins bio:
 
@@ -15,7 +15,7 @@ WeUseCoins bio:
 
 * [@orionwl on Twitter](https://twitter.com/orionwl)
 * [Wladimir J. van der Laan on GitHub](https://github.com/laanwj)
-* [Wladimir J. Van Der Laan's Profile on WeUseCoins.com](https://www.weusecoins.com/wladimir-van-der-laan/)
+* [Wladimir J. van der Laan's Profile on WeUseCoins.com](https://www.weusecoins.com/wladimir-van-der-laan/)
 * 12-Apr-2014 - [Wladimir van der Laan's Top Four Priorities for Bitcoin](https://www.coindesk.com/wladimir-van-der-laans-top-four-priorities-bitcoin/) by Kadhim Shubber
 * 02-Sep-2015 CoinJournal.net - [Who Asked Wlad? What Does Bitcoin’s Lead Developer Say About The Scaling Debate?](https://coinjournal.net/who-asked-wlad-what-does-bitcoins-lead-developer-say-about-scaling-debate-exclusive/) by Ian Demartino
 * 08-May-2016 NewsBTC.com - [Wladimir van der Laan: “There is Something Truly Fishy Going On”](http://www.newsbtc.com/2016/05/08/wladimir-van-der-laan-something-truly-fishy-going/) by JP Buntix
