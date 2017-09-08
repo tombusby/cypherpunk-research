@@ -23,4 +23,5 @@ Twitter bio:
 * [Vinay Gupta on Medium](https://medium.com/@leashless)
 * [myhopeforthe.world](http://myhopeforthe.world/) by Vinay Gupta
 * [hexayurt.capital](http://hexayurt.capital/)
+* 05-Nov-2014 Bitcoin Magazine - [‘Bitcoin is Teaching Realism to Libertarians’: An Interview With Old-School Cypherpunk Vinay Gupta](https://bitcoinmagazine.com/articles/bitcoin-is-teaching-realism-to-libertarians-an-interview-with-old-school-cypherpunk-vinay-gupta-1415220752/) by Aaron van Wirdum
 * 18-Jan-2016 Epicenter Bitcoin on Youtube - [EB114 – Vinay Gupta: From Lawyer Capitalism To Programmer Capitalism](https://www.youtube.com/watch?v=hTuGoRdm5wo)
