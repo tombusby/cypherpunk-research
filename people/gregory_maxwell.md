@@ -21,4 +21,4 @@ Blockstream.com team bio:
 * 13-Apr-2017 CoinDesk - [From AsicBoost to UASF: Greg Maxwell on Bitcoin's Path Forward](https://www.coindesk.com/asicboost-uasf-greg-maxwell-bitcoins-path-forward/) by Alyssa Hertig
 * 14-Apr-2017 BitcoinTalk - [Greg Maxwell doesn't support BIP 148 UASF](https://bitcointalk.org/index.php?topic=1870015.0)
 * 06-Jun-2017 TrustNodes.com - [Making Gregory Maxwell a Bitcoin Core Committer Was a “Huge Mistake” Says Gavin Andresen](http://www.trustnodes.com/2017/06/06/making-gregory-maxwell-bitcoin-core-committer-huge-mistake-says-gavin-andresen) by ?
-* 09-Sep-2017 CoinJournal.com - [Greg Maxwell on the Prospects of SegWit2x And Why Bitcoin Developers May Leave The Project If It Succeeds](https://coinjournal.net/greg-maxwell-prospects-segwit2x-bitcoin-developers-may-leave-project-succeeds/amp/) by Kyle Torpey
+* 09-Sep-2017 CoinJournal.net - [Greg Maxwell on the Prospects of SegWit2x And Why Bitcoin Developers May Leave The Project If It Succeeds](https://coinjournal.net/greg-maxwell-prospects-segwit2x-bitcoin-developers-may-leave-project-succeeds/amp/) by Kyle Torpey
