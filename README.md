@@ -251,3 +251,4 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Jameson Lopp's Bitcoin Resource List](http://lopp.net/bitcoin.html)
 * [The Satoshi Nakamoto Institute](http://nakamotoinstitute.org/)
 * [decrypto-org/blockchain-papers on GitHub](https://github.com/decrypto-org/blockchain-papers)
+* [CensorBib - Selected Research Papers in Internet Censorship](https://censorbib.nymity.ch/)
