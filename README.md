@@ -243,6 +243,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Bitcoin Magazine](https://bitcoinmagazine.com)
 * [CoinDesk](https://www.coindesk.com)
 * [Coin Telegraph](https://cointelegraph.com)
+* [Coin Center](https://coincenter.org/)
 
 ## Other Resource Lists:
 
