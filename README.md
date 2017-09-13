@@ -110,7 +110,17 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 
 ## Key Concepts
 
-* _placeholder_
+_I'll add dedicated pages for these later_
+
+* Public/Private Key Cryptography
+* Hash Functions
+* Cryptographic Signatures
+* End-to-End Encryption
+* PGP
+* Merkle Trees
+* Blockchains
+* Onion Routing
+* BitTorrent
 
 ## Philosophical/Ideological Sources
 * 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
