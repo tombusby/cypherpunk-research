@@ -1,6 +1,22 @@
 
 # cypherpunk-research
 
+## Contents
+
+* [The Cypherpunk Mailing List Archives and FAQ](#the-cypherpunk-mailing-list-archives-and-faq)
+* [Very Notable People (A-Z)](#very-notable-people-a-z)
+* [Notable People (A-Z)](#notable-people-a-z)
+* [Notable Events](#notable-events)
+* [Notable Orginisations (A-Z)](#notable-orginisations-a-z)
+* [Notable Projects (A-Z)](#notable-projects-a-z)
+* [Key Concepts](#key-concepts)
+* [Philosophical/Ideological Sources](#philosophicalideological-sources)
+* [Technical Sources](#technical-sources)
+* [Historical Sources & Media Articles](#historical-sources--media-articles)
+* [Successor Online Communities](#successor-online-communities)
+* [Current Publications/Blogs (A-Z)](#current-publicationsblogs-a-z)
+* [Other Resource Lists](#other-resource-lists)
+
 This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note. I intend to use the research here to write a series of articles, and maybe a book if time allows.
 
 Given that a large amount of the notable events and people are related to crypto-currency, a lot of this list will be about Bitcoin/Ethereum/etc. This isn't a "crypto-currency history" list though, it's a broader "cypherpunk history" project. This is why people like Julian Assange, Weev and Paul Calder Le Roux are included. Julian Assange was a 90s cypherpunk, but isn't a bitcoiner (except for Wikileaks accepting it for donations). Weev and Paul Calder Le Roux are people who, to me, represent the beginnings of outcomes predicted by cypherpunk theory. Paul Calder Le Roux in particular represents the dark side of the "specter of crypto anarchy".
