@@ -87,6 +87,23 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with [Roger Ver](people/roger_ver.md) as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
 * [Pieter Wuille](people/pieter_wuille.md) - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
 
+## Notable Events
+
+* 1970s - [The Discovery of Public Key Cryptography](events/public_crypto_discovery.md)
+* 1990s - [Crypto Wars, Phil Zimmermann and PGP](events/90s_crypto_wars.md)
+* 2008/2009 - [The Creation of Bitcoin and Early Community](events/creation_of_bitcoin.md)
+* Jun 2011 - [The Great Bitcoin Bubble of 2011](events/bitcoin_2011_bubble.md)
+* Feb 2011-Oct 2013 - [The Rise and Fall of the Silk Road](events/the_silk_road.md)
+* Mar 2012 - [The Bitcoinica Hack](events/bitcoinica.md)
+* June 2013 - [The Snowden Leaks](events/snowden_leaks.md)
+* Apr-Dec 2013 - [The Second and Third Bitcoin Bubbles](events/2013_bitcoin_bubbles.md)
+* Feb 2014 - [The Collapse of Mt Gox (The Final Goxxing)](events/mtgox.md)
+* Feb 2015 - [The Trial of Ross Ulbricht](events/ross_ulbricht.md)
+* May 2016 - [The Craig Wright Affair (and other attempts to identify Satoshi)](events/craig_wright_satoshi.md)
+* June 2016 - [The DAO Hack](events/dao_hack.md)
+* Early 2017 - [The Altcoin/ICO Bubble and Fourth Bitcoin Bubble](events/2017_bubbles.md)
+* Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
+
 ## Notable Orginisations (A-Z)
 
 * [Electronic Frontier Foundation](organisations/eff.md)
@@ -106,23 +123,6 @@ _I'll add dedicated pages for these later_
 * BitTorrent
 * IPFS
 * FileCoin
-
-## Notable Events
-
-* 1970s - [The Discovery of Public Key Cryptography](events/public_crypto_discovery.md)
-* 1990s - [Crypto Wars, Phil Zimmermann and PGP](events/90s_crypto_wars.md)
-* 2008/2009 - [The Creation of Bitcoin and Early Community](events/creation_of_bitcoin.md)
-* Jun 2011 - [The Great Bitcoin Bubble of 2011](events/bitcoin_2011_bubble.md)
-* Feb 2011-Oct 2013 - [The Rise and Fall of the Silk Road](events/the_silk_road.md)
-* Mar 2012 - [The Bitcoinica Hack](events/bitcoinica.md)
-* June 2013 - [The Snowden Leaks](events/snowden_leaks.md)
-* Apr-Dec 2013 - [The Second and Third Bitcoin Bubbles](events/2013_bitcoin_bubbles.md)
-* Feb 2014 - [The Collapse of Mt Gox (The Final Goxxing)](events/mtgox.md)
-* Feb 2015 - [The Trial of Ross Ulbricht](events/ross_ulbricht.md)
-* May 2016 - [The Craig Wright Affair (and other attempts to identify Satoshi)](events/craig_wright_satoshi.md)
-* June 2016 - [The DAO Hack](events/dao_hack.md)
-* Early 2017 - [The Altcoin/ICO Bubble and Fourth Bitcoin Bubble](events/2017_bubbles.md)
-* Jul/Aug 2017 - [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x vs Bitcoin Cash)](events/bitcoin_scaling.md)
 
 ## Key Concepts
 
