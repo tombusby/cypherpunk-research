@@ -89,8 +89,8 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 
 ## Notable Orginisations (A-Z)
 
-* [Electronic Frontier Foundation](events/eff.md)
-* [Paralelni Polis](events/paralelni_polis.md) - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) phisical location to only accept payment in Bitcoin
+* [Electronic Frontier Foundation](organisations/eff.md)
+* [Paralelni Polis](organisations/paralelni_polis.md) - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) phisical location to only accept payment in Bitcoin
 * The Bitcoin Foundation
 * The Tor Project
 * Protocol Labs
