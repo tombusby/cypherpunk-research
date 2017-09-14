@@ -62,6 +62,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
 * [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Andrew Auernheimer (weev)](people/weev.md) - Not really a cypherpunk himself but an interesting player in the world the cypherpunks helped build: White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
+* [Juan Benet](people/juan_benet.md) - Creator of the IPFS Protocol (InterPlanetary FileSystem) - an attempt to build a content-addressed web, Also behind the FileCoin IPFS incentive layer
 * [Matt Corallo](people/matt_corallo.md) - Bitcoin Core developer, Holds the number 3 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Paul Calder Le Roux](people/paul_calder_le_roux.md) - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
 * [Rick Falkvinge](people/rick_falkvinge.md) - Founder of the Swedish Pirate Party, Political activist, Bitcoiner
@@ -90,6 +91,21 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 
 * [Electronic Frontier Foundation](events/eff.md)
 * [Paralelni Polis](events/paralelni_polis.md) - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) phisical location to only accept payment in Bitcoin
+* The Bitcoin Foundation
+* The Tor Project
+* Protocol Labs
+
+## Notable Projects (A-Z)
+
+_I'll add dedicated pages for these later_
+
+* Bitcoin
+* Ethereum
+* Tor
+* OpenBazaar
+* BitTorrent
+* IPFS
+* FileCoin
 
 ## Notable Events
 
@@ -118,6 +134,7 @@ _I'll add dedicated pages for these later_
 * End-to-End Encryption
 * PGP
 * Merkle Trees
+* Bloom Filters
 * Blockchains
 * Onion Routing
 * BitTorrent
@@ -203,12 +220,14 @@ _I'll add dedicated pages for these later_
 * 2008 NakamotoInstitute.org - [Truledger in Plain English](http://nakamotoinstitute.org/truledger/) by Bill St. Clair - _[link to original](http://truledger.com/doc/plain-english.html)_
 * 30-Oct-2008 NakamotoInstitute.org - [Lucre: Anonymous Electronic Tokens v1.8](http://nakamotoinstitute.org/static/docs/lucre.pdf) by Ben Laurie
 * 31-Oct-2008 Cryptography Mailing List - [The Bitcoin Whitepaper](https://bitcoin.org/bitcoin.pdf) by [Satoshi Nakamoto](people/satoshi_nakamoto.md) - _[link to original announcement](http://www.mail-archive.com/cryptography@metzdowd.com/msg09959.html)_
+* 24-Jul-2014 IPFS.io - [IPFS - Content Addressed, Versioned, P2P File System (DRAFT 3)](https://ipfs.io/ipfs/QmR7GSQM93Cx5eAg6a6yRzNde1FQv7uL6X1o4k7zrJa3LX/ipfs.draft3.pdf) by [Juan Benet](people/juan_benet.md)
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
 * 05-Sep-2015 Garret Fogerlie - [How Tor Users Got Caught - Defcon 22](https://www.youtube.com/watch?v=7G1LjQSYM5Q)
 * 07-Dec-2015 bitcoin-dev Mailing List - [Capacity increases for the Bitcoin system - (Core's Roadmap)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html)
 * 28-Oct-2016 Bitcoincore.org - [Segregated Witness Costs and Risks](https://bitcoincore.org/en/2016/10/28/segwit-costs/)
 * 13-Apr-2017 The Merkle - [What is a BIP](https://themerkle.com/what-is-a-bip/)
 * 10-Jul-2017 HackerNoon.com - [Ethereum: Turing-Completeness and Rich Statefulness Explained](https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb) by Kyle Wang
+* 14-Aug-2017 Filecoin.io - [Filecoin: A Decentralized Storage Network](https://filecoin.io/filecoin.pdf) by Protocol Labs
 
 ## Historical Sources & Media Articles
 
