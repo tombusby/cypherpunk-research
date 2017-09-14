@@ -121,6 +121,9 @@ _I'll add dedicated pages for these later_
 * Blockchains
 * Onion Routing
 * BitTorrent
+* Distributed Hash Tables
+* P2P Routing Algorithms
+* Mesh Networks
 
 ## Philosophical/Ideological Sources
 * 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
