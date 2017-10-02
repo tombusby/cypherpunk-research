@@ -145,3 +145,4 @@ From wikipedia:
 * 20-Jun-2017 WBAP Talk Radio - [Chris Salcedo: Cody Wilson Interview on Guns](http://www.wbap.com/2017/06/20/chris-salcedo-cody-wilson-interview-on-guns/)
 * 18-Aug-2017 Activist Post - [Purge Begins: Cloudflare Terminates Service To Cody Wilson’s GhostGunner Website](http://www.activistpost.com/2017/08/purge-begins-cloudflare-terminates-service-to-cody-wilsons-ghostgunner-website.html)
 * 18-Aug-2017 PJMedia.com - [Alt-Tech Bad Boy Cody Wilson Explains Hatreon, an Alternative to Online Censorship](https://pjmedia.com/trending/2017/08/18/hatreon-alt-tech-bad-boy-cody-wilsons-alternative-to-online-censorship/) by Megan Fox
+* 01-Oct-2017 CoinDesk - [Guns & Crypto: How Bitcoin Is Helping Keep Cody Wilson's Anarchist Dream Alive](https://www.coindesk.com/guns-crypto-bitcoin-helping-keep-cody-wilsons-anarchist-dream-alive/?utm_content=buffer53f56&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
