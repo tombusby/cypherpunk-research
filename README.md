@@ -180,6 +180,7 @@ _I'll add dedicated pages for these later_
 * 03-Dec-2006 NakamotoInstitute.org - [State and Terrorist Conspiracies & Conspiracy as Governance ](http://nakamotoinstitute.org/static/docs/julian-assange-conspiracies.pdf) by [Julian Assange](people/julian_assange.md)
 * 2008 Mises.org - [Deflation and Liberty](https://mises.org/document/3726/Deflation-and-Liberty) by Jörg Guido Hülsmann
 * mid-2010s paralelnipolis.cz - [Paralelni Polis - statement](https://www.paralelnipolis.cz/o-nas/en/)
+* Dec 2015 (Academic Paper) - [The Moral Character of Cryptographic Work](http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf) by Phillip Rogaway
 
 ## Technical Sources
 
