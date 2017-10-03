@@ -132,6 +132,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 
 _I'll add dedicated pages for these later_
 
+* PGP
 * Bitcoin
 * Ethereum
 * Tor
