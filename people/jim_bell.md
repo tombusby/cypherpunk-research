@@ -15,6 +15,7 @@ From wikipedia:
 
 * [Jim Bell on Wikipedia](https://en.wikipedia.org/wiki/Jim_Bell)
 * [Assassination Market on Wikipedia](https://en.wikipedia.org/wiki/Assassination_market)
+* [The Jim Bell Project](https://jimbellproject.org)
 * 04-Apr-1997 - [Assassination Politics](http://cryptome.org/ap.htm)
 * 14-Apr-2000 Wired Magazine - [Crypto-Convict Won't Recant](https://www.wired.com/2000/04/crypto-convict-wont-recant/)
 * 14-Apr-2012 bitbutter on Youtube - [Jim Bell's 'Assassination Politics'](https://www.youtube.com/watch?v=iT5c8eklvZk)
