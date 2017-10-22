@@ -21,3 +21,4 @@ From wikipedia:
 * 14-Apr-2012 bitbutter on Youtube - [Jim Bell's 'Assassination Politics'](https://www.youtube.com/watch?v=iT5c8eklvZk)
 * 18-Nov-2013 Forbes Magazine - [Meet The 'Assassination Market' Creator Who's Crowdfunding Murder With Bitcoins](https://www.forbes.com/sites/andygreenberg/2013/11/18/meet-the-assassination-market-creator-whos-crowdfunding-murder-with-bitcoins/#7a17e37b3d9b) by Andy Greenberg - (This is not Jim Bell's work, but clearly someone inspired by him)
 * 13-Aug-2016 Anarchast - [Jim Bell Youtube Interview](https://www.youtube.com/watch?v=t0YfUGKlBIQ)
+* 07-Oct-2017 World Crypto News Network - [Interview with Jim Bell, Author of Assassination Politics](https://www.youtube.com/watch?v=4KLqi1v2zSE)
