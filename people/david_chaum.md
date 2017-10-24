@@ -20,5 +20,6 @@ _TODO: Go through list of publications on Chaum's site and link the available on
 * 1988 Research Paper - [The Dining Cryptographers Problem: Unconditional Sender and Recipient Untraceability](https://www.cise.ufl.edu/~nemo/anonymity/papers/chaum-dc.pdf) by David Chaum
 * 1989 Research Paper - [Online Cash Checks](http://nakamotoinstitute.org/online-cash-checks/) by David Chaum
 * 1992 Scientific American - [Achieving Electronic Privacy](http://www.chaum.com/publications/ScientificAmerican-AEP.pdf) by David Chaum
+* 01-Dec-1994 Wired Magazine - [E-Money (That's What I Want)](https://www.wired.com/1994/12/emoney/)
 * 06-Jan-2016 Wired Magazine - [The Father of Online Anonymity Has a Plan to End the Crypto War](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/) by Andy Greenberg
 * 07-Jan-2016 Business Insider - [There's a huge debate over an encryption expert's plan solve the problem of online privacy](http://www.businessinsider.com/david-chaum-privategrity-proposal-furious-debate-privacy-cryptography-privacy-cmix-2016-1?IR=T) by Rob Price

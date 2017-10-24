@@ -10,9 +10,11 @@
 * [Notable Orginisations (A-Z)](#notable-orginisations-a-z)
 * [Notable Projects (A-Z)](#notable-projects-a-z)
 * [Key Concepts](#key-concepts)
+* [Full Cryptography Primer Courses](#full-cryptography-primer-courses)
 * [Philosophical/Ideological Sources](#philosophicalideological-sources)
 * [Technical Sources](#technical-sources)
 * [Historical Sources & Media Articles](#historical-sources--media-articles)
+* [Books](#books)
 * [Successor Online Communities](#successor-online-communities)
 * [Current Publications/Blogs (A-Z)](#current-publicationsblogs-a-z)
 * [Other Resource Lists](#other-resource-lists)
@@ -159,7 +161,14 @@ _I'll add dedicated pages for these later_
 * P2P Routing Algorithms
 * Mesh Networks
 
+## Full Cryptography Primer Courses
+
+* [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+* [The Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) by Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
+* [Applied Cryptography (Second Edition)](https://ia600202.us.archive.org/10/items/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf) by Bruce Schneier
+
 ## Philosophical/Ideological Sources
+
 * 1973 DavidDFriedman.com (Full Book) - [The Machinery of Freedom](http://www.daviddfriedman.com/The_Machinery_of_Freedom_.pdf) by [David D. Friedman](people/david_d_friedman.md)
 * 1978 Mises.org - [Denationalisation of Money: The Argument Refined](https://mises.org/document/3970/Denationalisation-of-Money-The-Argument-Refined) by Friedrich A. Hayek
 * Nov 1979 NakamotoInstitute.org - [From Crossbows To Cryptography: Techno-Thwarting The State](http://nakamotoinstitute.org/static/docs/from-crossbows-to-cryptography.pdf) by Chuck Hammill
@@ -185,7 +194,8 @@ _I'll add dedicated pages for these later_
 ## Technical Sources
 
 * [List of Important Publications in Cryptography on Wikipedia](https://en.wikipedia.org/wiki/List_of_important_publications_in_cryptography)
-* [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
+* Jul 1948 The Bell System Technical Journal - [A Mathematical Theory of Communication](http://math.harvard.edu/~ctm/home/text/others/shannon/entropy/entropy.pdf) By Claude Shannon
+* Oct 1949 The Bell System Technical Journal - [Communication Theory of Secrecy Systems](http://www.mast.queensu.ca/~math474/shannon-secrecy49.pdf) by Claude Shannon
 * 1957 Internet Archive - [An Introduction to Probability Theory and Its Applications, Vol. I](https://ia600304.us.archive.org/2/items/AnIntroductionToProbabilityTheoryAndItsApplicationsVolume1/Feller-AnIntroductionToProbabilityTheoryAndItsApplicationsVolume1.pdf).pdf) by William Feller
 * Nov 1976 IEEE Transactions on Information Theory, VOL. IT-22, NO. 6 - [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman - _this paper describes Diffie-Hellman key exchange_
 * Feb 1978 people.csail.mit.edu/rivest/ - [A Method for Obtaining Digital Signatures and Public-key Cryptosystems](http://people.csail.mit.edu/rivest/Rsapaper.pdf) by Ronald L. Rivest, Adi Shamir, and Leonard M. Adleman
@@ -253,6 +263,7 @@ _I'll add dedicated pages for these later_
 * 01-Jun-1994 Wired Magazine - [Anonymously Yours – How to Launder Your E-mail](https://www.wired.com/1994/06/anonymous-2/) by Steven Levy
 * 12-Jun-1994 The New York Times - [Battle of the Clipper Chip](http://www.nytimes.com/1994/06/12/magazine/battle-of-the-clipper-chip.html?pagewanted=all) by Stephen Levy
 * 01-Nov-1994 Wired Magazine - [Prophet of Privacy](https://www.wired.com/1994/11/diffie/)
+* 01-Dec-1994 Wired Magazine - [E-Money (That's What I Want)](https://www.wired.com/1994/12/emoney/)
 * 01-Oct-1996 Wired Magazine - [The Future of Money](https://www.wired.com/1996/10/wriston/) by Thomas A. Bass
 * 17-Feb-1997 Wired Magazine - [Homeless Cypherpunks Turn to Usenet](https://www.wired.com/1997/02/homeless-cypherpunks-turn-to-usenet/)
 * 01-Apr-1999 Wired Magazine - [The Open Secret](https://www.wired.com/1999/04/crypto/) by Steven Levy
@@ -277,6 +288,14 @@ _I'll add dedicated pages for these later_
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
 * 04-June-2017 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett
 * 24-Aug-2017 Bitcoin Blockchain - [The First SegWit transaction on Bitcoin](http://srv1.yogh.io/#tx:id:8F907925D2EBE48765103E6845C06F1F2BB77C6ADC1CC002865865EB5CFD5C1C)
+
+## Books
+
+* 1948 - [Codes and Secret Writing](https://www.goodreads.com/book/show/1113675.Codes_and_Secret_Writing) by Herbert S. Zim - _Children's book on codes and ciphers which inspired Phil Zimmermann to pursue cryptography as an interest_
+* 1967 (and 1996) - [The Codebreakers – The Story of Secret Writing](https://en.wikipedia.org/wiki/The_Codebreakers) by David Kahn - _this book is a complete chronicle of codebreaking and code making since Ancient Egypt and assisted Whitfield Diffie in his quest to break the government's monopoly on cryptography information_
+* Jul 1968 - [The Broken Seal](https://www.goodreads.com/book/show/2225948.The_Broken_Seal) by Ladislas Farago - _This details pre-Pearl Harbor cryptanalytic work against Japanese naval codes_
+* 19-Sep-1982 - [The Puzzle Palace: A Report on America's Most Secret Agency](https://en.wikipedia.org/wiki/The_Puzzle_Palace) by James Bramford - _An exposé on the workings of the US National Security Agency, which had traditionally sought to monopolise cryptographic information and talent within its own walls_
+* 31-Dec-2001 - [Crypto: How the Code Rebels Beat the Government Saving Privacy in the Digital Age](https://en.wikipedia.org/wiki/Crypto:_How_the_Code_Rebels_Beat_the_Government%E2%80%94Saving_Privacy_in_the_Digital_Age) by Steven Levy - _the list maintainer personally recommends this book as it provides a lot of contextual information about the world the cypherpunks of the 90s lived in_
 
 ## Successor Online Communities
 
