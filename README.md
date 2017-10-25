@@ -163,6 +163,7 @@ _I'll add dedicated pages for these later_
 
 ## Full Cryptography Primer Courses
 
+* [Discrete Mathematics: Elementary and Beyond](http://home.anadolu.edu.tr/~eakyar/dersler/ayrik/kitap/kitap.pdf) by L. Lovász, J. Pelikán, K. Vesztergombi - _Good primer on a lot of the pure mathematics involved in cryptography_
 * [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 * [The Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) by Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
 * [Applied Cryptography (Second Edition)](https://ia600202.us.archive.org/10/items/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf) by Bruce Schneier
