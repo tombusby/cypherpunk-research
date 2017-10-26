@@ -166,7 +166,8 @@ _I'll add dedicated pages for these later_
 * [Discrete Mathematics: Elementary and Beyond](http://home.anadolu.edu.tr/~eakyar/dersler/ayrik/kitap/kitap.pdf) by L. Lovász, J. Pelikán, K. Vesztergombi - _Good primer on a lot of the pure mathematics involved in cryptography_
 * [Introduction to Cryptography with Christof Paar (Full University Lecture Series)](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos)
 * [The Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) by Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
-* [Applied Cryptography (Second Edition)](https://ia600202.us.archive.org/10/items/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf) by Bruce Schneier
+* [Applied Cryptography (Second Edition)](https://ia600202.us.archive.org/10/items/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf) by Bruce Schneier - _The list maintainer personally found this book fairly impenetrable, maybe try The Handbook of Applied Cryptography unless you have a strong mathematics background_
+* [An Introduction to Mathematical Cryptography](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.9999&rep=rep1&type=pdf) by Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman
 
 ## Philosophical/Ideological Sources
 
