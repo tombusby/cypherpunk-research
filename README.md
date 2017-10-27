@@ -168,6 +168,7 @@ _I'll add dedicated pages for these later_
 * [The Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) by Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
 * [Applied Cryptography (Second Edition)](https://ia600202.us.archive.org/10/items/AppliedCryptographyBruceSchneier/Applied%20Cryptography%20%28Bruce%20Schneier%29.pdf) by Bruce Schneier - _The list maintainer personally found this book fairly impenetrable, maybe try The Handbook of Applied Cryptography unless you have a strong mathematics background_
 * [An Introduction to Mathematical Cryptography](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.9999&rep=rep1&type=pdf) by Jeffrey Hoffstein, Jill Pipher, Joseph H. Silverman
+* [Elementary Cryptanalysis: A Study of Ciphers and Their Solution](http://informatika.stei.itb.ac.id/~rinaldi.munir/Kriptografi/2010-2011/cryptanalysis.pdf) by Helen Fouché Gaines - _Recommended by David Kahn in "The Codebreakers" as the best book on the subject_
 
 ## Philosophical/Ideological Sources
 
