@@ -19,7 +19,7 @@
 * [Current Publications/Blogs (A-Z)](#current-publicationsblogs-a-z)
 * [Other Resource Lists](#other-resource-lists)
 
-*Copyright Disclaimer*: I've tried to make this repository, as much as possible, a link to content rather than a list of titles of content. As such, whenever I've been able to find a PDF copy of a given work, I have linked to it. By clicking the links in this repository, you accept the responsibility for determining whether doing so constitutes copyright infringement. I accept no responsibility for what is on the other end of a given hyperlink, I have merely compiled a list of links which are all discoverable via google. If you feel your copyright is being infringed then this is a matter to take up with whoever is hosting that work.
+**Copyright Disclaimer**: I've tried to make this repository, as much as possible, a link to content rather than a list of titles of content. As such, whenever I've been able to find a PDF copy of a given work, I have linked to it. By clicking the links in this repository, you accept the responsibility for determining whether doing so constitutes copyright infringement. I accept no responsibility for what is on the other end of a given hyperlink, I have merely compiled a list of links which are all discoverable via google. If you feel your copyright is being infringed then this is a matter to take up with whoever is hosting that work.
 
 This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note. I intend to use the research here to write a series of articles, and maybe a book if time allows.
 
