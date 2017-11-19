@@ -29,6 +29,7 @@ From wikipedia:
 
 ## Links
 
+* [@AmirPolyteknik on Twitter](https://twitter.com/AmirPolyteknik)
 * [Amir Taaki on Wikipedia](https://en.wikipedia.org/wiki/Amir_Taaki)
 * [@TheDarkWallet on Twitter](https://twitter.com/TheDarkwallet)
 * [Genjix on GitHub](https://github.com/genjix)
