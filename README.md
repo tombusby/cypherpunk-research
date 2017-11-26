@@ -314,6 +314,7 @@ _I'll add dedicated pages for these later_
 * [/r/btc Subreddit](https://www.reddit.com/r/btc/) - Generally pro BU/Bitcoin-Cash/Big-blocks
 * [Bitcoin Core Slack](https://bitcoincore.slack.com)
 * [bitcoin-dev Mailing List](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+* [Cryptography Mailing List](http://www.metzdowd.com/mailman/listinfo/cryptography) - _([archive](http://www.metzdowd.com/pipermail/cryptography/))_
 * [/r/ethereum Subreddit](https://www.reddit.com/r/ethereum/)
 
 ## Current Publications/Blogs (A-Z)
