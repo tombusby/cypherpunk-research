@@ -31,4 +31,6 @@ From the Bitcoin Wiki:
 * Oct 2007 CFRP Working Group - [(Draft Paper) - VMAC: Message Authentication Code using Universal Hashing](http://www.fastcrypto.org/vmac/draft-krovetz-vmac-01.txt) by Wei Dai
 * 07-Apr-2009-Present LessWrong.com - [Wei Dai's Posts on LessWrong.com](http://lesswrong.com/user/Wei_Dai/submitted/)
 * 25-Feb-2011 LessWrong.com Post - [Wei_Dai comments on Making money with Bitcoin?](http://lesswrong.com/lw/4cs/making_money_with_bitcoin/3lq1)
+* 20-April-2011 LessWrong.com Post - [Wei Dai comments on Bitcoin](http://lesswrong.com/lw/h8z/bitcoins_are_not_digital_greenbacks/8tga)
 * 11-Oct-2016 (Latest Release) - [Crypto++ - Cryptography Libarary for C++](https://www.cryptopp.com/)
+* [Bitvise Limited](https://www.bitvise.com/about-us)
