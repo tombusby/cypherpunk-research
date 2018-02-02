@@ -23,6 +23,7 @@ From the Bitcoin Wiki:
 
 ## Links
 
+* [Bitvise Limited](https://www.bitvise.com/about-us)
 * 1996-2003 Extropians Mailing List - [Wei Dai's List Archive](http://extropians.weidai.com/)
 * 01-Nov-1998 Whitepaper - [b-money](http://nakamotoinstitute.org/b-money/) by Wei Dai
 * Unknown Date - [An attack against SSH2 protocol](http://www.weidai.com/ssh2-attack.txt) by Wei Dai
@@ -33,4 +34,3 @@ From the Bitcoin Wiki:
 * 25-Feb-2011 LessWrong.com Post - [Wei_Dai comments on Making money with Bitcoin?](http://lesswrong.com/lw/4cs/making_money_with_bitcoin/3lq1)
 * 20-April-2011 LessWrong.com Post - [Wei Dai comments on Bitcoin](http://lesswrong.com/lw/h8z/bitcoins_are_not_digital_greenbacks/8tga)
 * 11-Oct-2016 (Latest Release) - [Crypto++ - Cryptography Libarary for C++](https://www.cryptopp.com/)
-* [Bitvise Limited](https://www.bitvise.com/about-us)
