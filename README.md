@@ -102,7 +102,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Peter Todd](people/peter_todd.md) - Bitcoin Core developer, Researcher, Vocal critic within the cryptocurrency space
 * [Zhou Tong](people/zhou_tong.md) - Founder of [Bitcoinica](events/bitcoinica.md), Major player in the early Bitcoin community
 * [Wladimir J. van der Laan](people/wladimir_j_van_der_laan.md) - Bitcoin Core Developer, Holds the number 1 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
-* [Roger Ver](people/roger_ver.md) - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controvertial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with [Jihan Wu](people/jihan_wu.md) seen as a figurehead of that faction
+* [Roger Ver](people/roger_ver.md) - Early Bitcoin whale and investor, "The Bitcoin Jesus", Currently a controversial figure due to his staunch support for the "Big Block" faction in the scaling debate and for the "Bitcoin Cash" fork-coin, along with [Jihan Wu](people/jihan_wu.md) seen as a figurehead of that faction
 * [Eric Voorhees](people/eric_voorhees.md) - Former BitInstant employee, Founder of Coinapult, Outspoken pundit, Ideological convictions
 * [Cody Wilson](people/cody_wilson.md) - Post-left Anarchist, Founder of Defence Distributed (which successfully produced designs for a fully 3D printed plastic firearm), Worked with [Amir Taaki](people/amir_taaki.md) on DarkWallet as a kind of spokesman/propagandist
 * [Craig Wright](people/craig_wright.md) - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
