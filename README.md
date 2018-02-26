@@ -146,6 +146,8 @@ _I'll add dedicated pages for these later_
 * BitTorrent
 * IPFS
 * FileCoin
+* Opendime
+* JoinMarket
 
 ## Key Concepts
 
