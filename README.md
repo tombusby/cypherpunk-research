@@ -93,7 +93,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
 * [Mark Karpelès](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
 * [Dave Kleiman](people/dave_kleiman.md) - Candidate for [Satoshi](people/satoshi_nakamoto.md), Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)
-* [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
+* [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Signal Protocol (now also used by WhatsApp), Sailor
 * [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
 * [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
 * [Jonas Schnelli](people/jonas_schnelli.md) - Bitcoin Core developer, Holds the number 6 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
