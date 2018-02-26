@@ -80,7 +80,7 @@ The following people are mostly (but not all) original Cypherpunks who were acti
 
 Many of these are not true and/or original Cypherpunks (some are) but instead are people who were/are key players (or adversaries depending on your perspective) in Cypherpunk successor movements and events.
 
-* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until 2014. He lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
 * [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Andrew Auernheimer (weev)](people/weev.md) - Not really a cypherpunk himself but an interesting player in the world the cypherpunks helped build: White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
@@ -93,7 +93,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Luke-jr](people/luke-jr.md) (Difficult to find his real name) - Bitcoin Core developer, Blockstream employee, A figure of controversy to the Big Block faction
 * [Mark Karpelès](people/mark_karpeles.md) - Former CEO of the doomed MtGox exchange, Suspected to have caused the Nov 13 bubble with two trading bots, Former Bitcoin Foundation board member
 * [Dave Kleiman](people/dave_kleiman.md) - Candidate for [Satoshi](people/satoshi_nakamoto.md), Forsensic Computer Investigator, Security researcher, Friend of [Craig Wright](people/craig_wright.md)
-* [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Signal Protocol (now also used by WhatsApp), Sailor
+* [Moxie Marlinspike (pseudonym)](people/moxie_marlinspike.md) - Cypherpunk, Anarchist, Computer Security Researcher, Founder of Open Whisper Systems and co-author of the Singal Protocol (now also used by WhatsApp), Sailor
 * [Michael Marquart (Theymos)](people/theymos.md) - Owner of the [bitcointalk](https://bitcointalk.org/) web forum, Controversial moderator of the [/r/bitcoin](https://www.reddit.com/r/Bitcoin/) subreddit due to accusations of heavy-handed moderation and censorship of the online communities he controls
 * [Gregory Maxwell](people/gregory_maxwell.md) - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
 * [Jonas Schnelli](people/jonas_schnelli.md) - Bitcoin Core developer, Holds the number 6 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
@@ -129,7 +129,7 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 ## Notable Orginisations (A-Z)
 
 * [Electronic Frontier Foundation](organisations/eff.md)
-* [Paralelni Polis](organisations/paralelni_polis.md) - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) physical location to only accept payment in cryptocurrencies (Bitcoin and Litecoin)
+* [Paralelni Polis](organisations/paralelni_polis.md) - Runs a cypherpunk cafe and coworking/hacker-space in Prague, Czechia called The Institute of Crypto-Anarchy, The first (and maybe only) phisical location to only accept payment in Bitcoin
 * The Bitcoin Foundation
 * The Tor Project
 * Protocol Labs
@@ -146,8 +146,6 @@ _I'll add dedicated pages for these later_
 * BitTorrent
 * IPFS
 * FileCoin
-* Opendime
-* JoinMarket
 
 ## Key Concepts
 
