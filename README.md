@@ -80,7 +80,7 @@ The following people are mostly (but not all) original Cypherpunks who were acti
 
 Many of these are not true and/or original Cypherpunks (some are) but instead are people who were/are key players (or adversaries depending on your perspective) in Cypherpunk successor movements and events.
 
-* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until he lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
+* [Gavin Andresen](people/gavin_andresen.md) - [Satoshi](people/satoshi_nakamoto.md)'s successor, Managed the project after [Satoshi](people/satoshi_nakamoto.md)'s departure until 2014. He lost write-access to [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) in mid-2016 during a political row, Holds the number 5 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors)
 * [Jacob Appelbaum](people/jacob_appelbaum.md) - Friend of Julian Assange, Former Spokesman for Wikileaks, Privacy activist, Former Tor Developer, Currently embroiled in sexual misconduct allegations
 * [Andreas Antonopoulos](people/andreas_antonopoulos.md) - Bitcoin evangelist, Author of [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 * [Andrew Auernheimer (weev)](people/weev.md) - Not really a cypherpunk himself but an interesting player in the world the cypherpunks helped build: White supremacist hacker, father of modern trolling culture, cryptocurrency trader, printer mischief-maker
