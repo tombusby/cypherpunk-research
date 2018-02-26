@@ -7,7 +7,7 @@ From wikipedia:
 
 [Phil Zimmermann](/people/phil_zimmermann.md) was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
 
-Since Public Key encryption was considered a munition, t-shirts like this (containing the PGP sourcecode) were created as a form of civil disobedience using [Adam Back](/people/adam_back.md)'s three-line Perl implementation of PGP:
+Since Public Key encryption was considered a munition, t-shirts like this (containing the RSA sourcecode) were created as a form of civil disobedience using [Adam Back](/people/adam_back.md)'s three-line Perl implementation of RSA:
 
 ![Image of PGP Tshirt](https://upload.wikimedia.org/wikipedia/commons/9/96/Munitions_T-shirt_%28front%29.jpg)
 
