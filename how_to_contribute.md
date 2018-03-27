@@ -12,4 +12,4 @@ Exact dates should be given in the following format: 31-Oct-2008. This is becaus
 * 1990s (for a broad period of time without clear beginnings and ends)
 * Aug-Sep 2013 (for a month-to-month range in the same year)
 * Aug 2013-Sep 2015 (for a month-to-month range in different years)
-* 2008/2009 (for am ongoing period of time with an unclear start date - i.e. was Bitcoin created by the genesis block, or the announcement of the white paper?)
+* 2008/2009 (for an ongoing period of time with an unclear start date - i.e. was Bitcoin created by the genesis block, or the announcement of the white paper?)
