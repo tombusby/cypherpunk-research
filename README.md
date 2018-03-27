@@ -262,6 +262,7 @@ _I'll add dedicated pages for these later_
 * Dec 2014 O'Reilly Books - [Mastering Bitcoin (free to read on GitHub)](https://github.com/bitcoinbook/bitcoinbook) by [Andreas Antonopoulos](people/andreas_antonopoulos.md)
 * 05-Sep-2015 Garret Fogerlie - [How Tor Users Got Caught - Defcon 22](https://www.youtube.com/watch?v=7G1LjQSYM5Q)
 * 07-Dec-2015 bitcoin-dev Mailing List - [Capacity increases for the Bitcoin system - (Core's Roadmap)](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-December/011865.html)
+* 87-Apr-2016 Università di Trento - [Distributed Algorithms for Peer-to-Peer Systems](http://disi.unitn.it/~montreso/ds/handouts/10-p2p.pdf)
 * 28-Oct-2016 Bitcoincore.org - [Segregated Witness Costs and Risks](https://bitcoincore.org/en/2016/10/28/segwit-costs/)
 * 13-Apr-2017 The Merkle - [What is a BIP](https://themerkle.com/what-is-a-bip/)
 * 10-Jul-2017 HackerNoon.com - [Ethereum: Turing-Completeness and Rich Statefulness Explained](https://hackernoon.com/ethereum-turing-completeness-and-rich-statefulness-explained-e650db7fc1fb) by Kyle Wang
