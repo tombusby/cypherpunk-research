@@ -298,7 +298,11 @@ _I'll add dedicated pages for these later_
 * 29-Mar-2017 Wired Magazine - [How an Anarchist Bitcoin Coder Found Himself Fighting in Syria](https://www.wired.com/2017/03/anarchist-bitcoin-coder-found-fighting-isis-syria/) by Andy Greenberg
 * 31-May-2017 Wired Magazine - [Silk Road Creator Ross Ulbricht Loses His Life Sentence Appeal](https://www.wired.com/2017/05/silk-road-creator-ross-ulbricht-loses-life-sentence-appeal/) by Andy Greenberg
 * 04-June-2017 The Guardian - [Forget far-right populism – crypto-anarchists are the new masters](https://www.theguardian.com/technology/2017/jun/04/forget-far-right-populism-crypto-anarchists-are-the-new-masters-internet-politics) by Jamie Bartlett
-* 24-Aug-2017 Bitcoin Blockchain - [The First SegWit transaction on Bitcoin](http://srv1.yogh.io/#tx:id:8F907925D2EBE48765103E6845C06F1F2BB77C6ADC1CC002865865EB5CFD5C1C)
+* 24-Mar-2018 Pet3rpan - [Before Bitcoin: Pt.1 - 70s "Public Key Saga"](https://medium.com/@pet3rpan/history-of-things-before-bitcoin-cryptocurrency-part-one-e199f02ca380)
+* 04-Apr-2018 Pet3rpan - [Before Bitcoin: Pt.2 - 80s "Origins of Decentralization"](https://medium.com/@pet3rpan/history-of-things-before-bitcoin-cryptocurrency-part-two-94c4576005)
+* 13-Apr-2018 Pet3rpan - [Before Bitcoin: Pt.3 - 90s "Cryptowars"](https://medium.com/@pet3rpan/before-bitcoin-pt-3-90s-cryptowars-e857915fab82)
+* 17-May-2018 Pet3rpan - [Before Bitcoin: Pt.4 - 00s "New Millenium"](https://medium.com/@pet3rpan/before-bitcoin-pt-4-00s-new-millenium-426d6e3dcb1a)
+
 
 ## Books
 
