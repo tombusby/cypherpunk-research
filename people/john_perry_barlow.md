@@ -3,7 +3,7 @@
 
 From wikipedia:
 
-> John Perry Barlow (born October 3, 1947) is an American poet and essayist, a retired Wyoming cattle rancher, and a cyberlibertarian political activist who has been associated with both the Democratic and Republican parties. He is also a former lyricist for the Grateful Dead and a founding member of the Electronic Frontier Foundation and Freedom of the Press Foundation. He is Fellow Emeritus at Harvard University's Berkman Center for Internet and Society, where he has maintained an affiliation since 1998. He has been identified by Time magazine as one of the "School of Rock: 10 Supersmart Musicians".
+> John Perry Barlow (October 3, 1947 – February 7, 2018) is an American poet and essayist, a retired Wyoming cattle rancher, and a cyberlibertarian political activist who has been associated with both the Democratic and Republican parties. He is also a former lyricist for the Grateful Dead and a founding member of the Electronic Frontier Foundation and Freedom of the Press Foundation. He is Fellow Emeritus at Harvard University's Berkman Center for Internet and Society, where he has maintained an affiliation since 1998. He has been identified by Time magazine as one of the "School of Rock: 10 Supersmart Musicians".
 
 ## Links
 
