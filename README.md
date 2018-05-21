@@ -75,6 +75,27 @@ The following people are mostly (but not all) original Cypherpunks who were acti
 * [Nick Szabo](people/nick_szabo.md) - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for [Satoshi](people/satoshi_nakamoto.md)
 * [Ross Ulbricht (Dread Pirate Roberts)](people/ross_ulbricht.md) - Founder of the Silk Road dark net market, "The Princess Bride" fan, Currently serving life in prison
 * [Phil Zimmermann](people/phil_zimmermann.md) - Author of the Pretty Good Privacy (PGP) Public key encryption software
+* [Steven M. Bellovin] - Researcher on computer networking and security. He is currently a Professor in the Computer Science department at Columbia University, having previously been a Fellow at AT&T Labs
+* [Matt Blaze] -  Bell Labs researcher, later professor at University of Pennsylvania; found flaws in the Clipper Chip. On the board of directors of the Tor Project
+* [Jon Callas] - Technical lead on OpenPGP specification. Cofounder of PGP, Silent Circle, and Blackphone
+* [Lance Cottrell] - Original author of the Mixmaster Remailer software, and founder of Anonymizer
+* [Suelette Dreyfus] - Co-inventor of deniable cryptography, journalist, co-author of the cult classic book "Underground: Hacking, Madness and Obsession on the Electronic Frontier"
+* [Alex Fowler] - Blockstream Co-founder. Former CPO for Mozilla
+* [Eva Galperin] - Director of Cybersecurity at the EFF and technical advisor for the Freedom of the Press Foundation
+* [Mike Godwin] - Attorney, EFF's first staff hire, creator of Godwin's Law
+* [Rop Gonggrijp] - Founder of XS4ALL, co-creator of the Cryptophone
+* [Ryan Lackey] - Co-founder of HavenCo in Sealand, the world's first data haven
+* [Ben Laurie] - Core team member of OpenSSL, founding director of The Apache Software Foundation, director of the Open Rights Group, and Advisory Board member of WikiLeaks
+* [Morgan Marquis-Boire] - Former Director of Security at First Look Media, former contributing writer at The Intercept, and former Special Advisor to the EFF.
+* [Jude Milhon] - Founding member of the Cypherpunks mailing list, credited with naming the group; senior editor at Mondo 2000; frequent contributor to Boing Boing
+* [Runa Sandvik] - Former developer with The Tor Project, technical advisor to the Freedom of the Press Foundation and a member of the review board for Black Hat Europe
+* [Steve Schear] - Creator of the warrant canary, former Director at MojoNation, founding member of GNURadio
+* [Bruce Schneier] - Well-known security author, board member of the EFF
+* [Zooko Wilcox-O'Hearn] - DigiCash and MojoNation developer, founder of Zcash, co-designer of Tahoe-LAFS
+* [Asher Wolf] - Founder of Cryptoparty, journalist
+* [Jillian York] - Director of International Freedom of Expression at the EFF, regular columnist for Al Jazeera English
+* [John Young] - Anti-secrecy activist and cofounder of Cryptome
+* [Joi Ito] - Japanese activist, entrepreneur, venture capitalist, and director of the MIT Media Lab
 
 ## Notable People (A-Z)
 
@@ -108,6 +129,9 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * [Craig Wright](people/craig_wright.md) - Claimed to be Satoshi, provided fraudulent proof, when called out couldn't/didn't-want-to provide a real one
 * [Jihan Wu](people/jihan_wu.md) - Owns Bitmain and operates AntPool (one of the larger Bitcoin pools), ASIC miner manufacturer, Controversial figure along with [Roger Ver](people/roger_ver.md) as figureheads of the big-block/bitcoin-unlimited/bitcoin-cash political faction within the scaling debate
 * [Pieter Wuille](people/pieter_wuille.md) - Bitcoin Core Developer, Holds the number 2 spot on the [bitcoin/bitcoin contributors list](https://github.com/bitcoin/bitcoin/graphs/contributors), Blockstream co-founder
+* [Aaron Swartz] - Activist and entrepreneur, creator of SecureDrop and Tor2Web
+* [Amaury Séchet (deadalnix)] - Lead developer of Bitcoin ABC, forked the main Bitcoin blockchain creating Bitcoin Cash
+* [Joanna Rutkowska] - Founder of Qubes OS
 
 ## Notable Events
 
@@ -133,6 +157,8 @@ Many of these are not true and/or original Cypherpunks (some are) but instead ar
 * The Bitcoin Foundation
 * The Tor Project
 * Protocol Labs
+* WikiLeaks
+* Freedom of the Press Foundation
 
 ## Notable Projects (A-Z)
 
@@ -148,6 +174,8 @@ _I'll add dedicated pages for these later_
 * FileCoin
 * Opendime
 * JoinMarket
+* Qubes OS
+* Purism
 
 ## Key Concepts
 
