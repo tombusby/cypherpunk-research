@@ -162,6 +162,7 @@ _I'll add dedicated pages for these later_
 * Bloom Filters
 * Blockchains
 * Onion Routing
+* Anonymous Remailers
 * BitTorrent
 * Distributed Hash Tables
 * P2P Routing Algorithms
