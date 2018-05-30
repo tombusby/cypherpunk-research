@@ -1,8 +1,5 @@
 
 # Electionic Frontier Foundation
 
-_placeholder_
+This page has moved to [https://cryptoanarchy.wiki/organisations/eff](https://cryptoanarchy.wiki/organisations/eff)
 
-## Links
-
-* _placeholder_
