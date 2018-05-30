@@ -1,8 +1,5 @@
 
-# Eric Voorhees
+# Erik Voorhees
 
-_placeholder_
+This page has moved to [https://cryptoanarchy.wiki/people/erik-voorhees](https://cryptoanarchy.wiki/people/erik-voorhees)
 
-## Links
-
-* _placeholder_
