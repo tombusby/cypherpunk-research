@@ -1,8 +1,5 @@
 
 # The Creation of Bitcoin and Early Community
 
-_placeholder_
+This page has moved to [https://cryptoanarchy.wiki/events/creation-of-bitcoin](https://cryptoanarchy.wiki/events/creation-of-bitcoin)
 
-## Links
-
-* _placeholder_

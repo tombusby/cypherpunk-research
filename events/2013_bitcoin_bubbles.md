@@ -1,8 +1,5 @@
 
 # The Second and Third Bitcoin Bubbles
 
-_placeholder_
+This page has moved to [https://cryptoanarchy.wiki/events/2013-bitcoin-bubbles](https://cryptoanarchy.wiki/events/2013-bitcoin-bubbles)
 
-## Links
-
-* _placeholder_

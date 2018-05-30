@@ -1,8 +1,5 @@
 
 # The Discovery of Public Key Cryptography
 
-_placeholder_
+This page has moved to [https://cryptoanarchy.wiki/events/public-crypto-discovery](https://cryptoanarchy.wiki/events/public-crypto-discovery)
 
-## Links
-
-* _placeholder_
